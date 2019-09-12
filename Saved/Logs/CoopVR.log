@@ -589,3 +589,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.12-18.27.59:223][816]BlueprintLog: New page: Compile MotionControllerPawn_tester
 [2019.09.12-18.27.59:443][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
 [2019.09.12-18.28.00:579][870]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/MotionControllerPawn_tester49CF1D634F50A893D7F964B943CD9597.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn_tester.uasset'
+[2019.09.12-18.58.07:637][958]LogInit: XAudio2 using 'Speakers (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-18.58.13:268][959]LogInit: XAudio2 using 'Speakers (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
