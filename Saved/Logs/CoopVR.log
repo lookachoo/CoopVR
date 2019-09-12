@@ -594,3 +594,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.12-19.18.36:664][841]BlueprintLog: New page: Compile MotionControllerPawn_tester
 [2019.09.12-19.18.36:887][841]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
 [2019.09.12-19.18.38:104][903]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/MotionControllerPawn_testerE5CBA0A64247A438E49DA08E605A9265.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn_tester.uasset'
+[2019.09.12-19.28.14:240][478]BlueprintLog: New page: Compile MotionControllerPawn_tester
+[2019.09.12-19.28.14:438][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.09.12-19.29.04:719][ 55]BlueprintLog: New page: Compile MotionControllerPawn_tester
+[2019.09.12-19.29.04:927][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.09.12-19.29.06:381][161]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/MotionControllerPawn_testerAAF000264216D8A8A343619BB66141FC.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn_tester.uasset'
+[2019.09.12-19.30.42:387][276]LogEditorTransaction: Undo Delete current selection
+[2019.09.12-19.31.09:442][472]BlueprintLog: New page: Compile MotionControllerPawn_tester
+[2019.09.12-19.31.09:641][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.09.12-19.31.10:525][516]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/MotionControllerPawn_testerB468FEDE4D1BA51B467E39B1E007C9D8.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn_tester.uasset'
+[2019.09.12-19.31.47:607][647]BlueprintLog: New page: Compile MotionControllerPawn_tester
+[2019.09.12-19.31.47:803][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.09.12-19.31.48:663][689]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/MotionControllerPawn_tester159D778C4EECB61993B0C6ACF5D18B38.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn_tester.uasset'
+[2019.09.12-20.39.23:667][129]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h'
+[2019.09.12-20.41.09:296][520]BlueprintLog: New page: Compile MotionControllerPawn_tester
+[2019.09.12-20.41.09:510][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.09.12-20.41.10:745][603]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/MotionControllerPawn_testerCBD5A4954B3D17C43C095A95299E8766.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn_tester.uasset'
+[2019.09.12-20.42.07:479][206]LogEditorTransaction: Undo Add Node
+[2019.09.12-20.42.12:891][821]BlueprintLog: New page: Compile MotionControllerPawn_tester
+[2019.09.12-20.42.13:106][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.09.12-20.42.14:826][  7]LogEditorTransaction: Undo Create Pin Link
+[2019.09.12-20.42.15:363][ 45]LogEditorTransaction: Undo Move Node
+[2019.09.12-20.42.15:792][ 80]LogEditorTransaction: Undo Add Node
+[2019.09.12-20.42.16:391][135]LogEditorTransaction: Undo Delete current selection
+[2019.09.12-20.42.40:073][761]BlueprintLog: New page: Compile MotionControllerPawn_tester
+[2019.09.12-20.42.40:311][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.09.12-20.42.42:062][906]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/MotionControllerPawn_testerF78E5E1B493378799137888F6070D6A8.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn_tester.uasset'
