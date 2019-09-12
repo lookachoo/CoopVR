@@ -43,7 +43,10 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+
+#Custom Ignores
 *.log
+*.sav
 
 # Precompiled Assets
 SourceArt/**/*.png
