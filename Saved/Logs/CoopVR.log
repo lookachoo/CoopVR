@@ -620,3 +620,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.12-20.42.40:073][761]BlueprintLog: New page: Compile MotionControllerPawn_tester
 [2019.09.12-20.42.40:311][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
 [2019.09.12-20.42.42:062][906]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/MotionControllerPawn_testerF78E5E1B493378799137888F6070D6A8.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn_tester.uasset'
+[2019.09.12-20.49.24:088][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.09.12-20.49.24:088][252]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.033
+[2019.09.12-20.49.24:090][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_tester] ([1] browsable assets)...
+[2019.09.12-20.49.24:090][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_tester]
+[2019.09.12-20.49.24:239][252]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/MotionControllerPawn_tester_Auto79446C1A4069BE55E537E2BE1F68B226.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_tester_Auto1.uasset'
+[2019.09.12-20.49.24:245][252]LogFileHelpers: Auto-saving content packages took 0.156
+[2019.09.12-20.51.33:249][ 86]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.12-20.51.33:588][ 86]EditorErrors: Warning: No assets to check in!
