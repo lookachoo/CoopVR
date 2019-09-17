@@ -847,3 +847,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.17-06.51.38:842][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.09.17-06.51.40:575][591]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
 [2019.09.17-06.51.40:937][591]EditorErrors: Warning: No assets to check in!
+[2019.09.17-07.02.12:876][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-07.02.29:440][699]Cmd: TRANSACTION UNDO
+[2019.09.17-07.02.29:440][699]LogEditorTransaction: Undo Move Node
+[2019.09.17-07.02.32:846][ 51]Cmd: TRANSACTION REDO
+[2019.09.17-07.02.32:846][ 51]LogEditorTransaction: Redo Move Node
+[2019.09.17-07.02.41:923][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-07.02.43:302][825]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacter1088C7594012D668AA72E0A4648C8799.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-07.02.44:903][947]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-07.02.45:717][947]LogUObjectHash: Compacting FUObjectHashTables data took   8.88ms
+[2019.09.17-07.02.49:449][256]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.17-07.03.09:493][256]LogSlate: Window 'Submit Files' being destroyed
+[2019.09.17-07.03.10:873][256]LogSourceControl: commit successful: [develop 36f435a] Vive Pawn Edit
+[2019.09.17-07.03.10:988][256]SourceControl: [develop 36f435a] Vive Pawn Edit
+[2019.09.17-07.03.10:988][256]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.09.17-07.03.10:994][256]SourceControl: Commited [develop 36f435a] Vive Pawn Edit.
+[2019.09.17-07.06.04:288][846]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.17-07.06.04:679][846]EditorErrors: Warning: No assets to check in!
+[2019.09.17-07.06.13:358][715]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.17-07.06.19:026][715]LogSlate: Window 'Submit Files' being destroyed
+[2019.09.17-07.06.29:050][809]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.17-07.06.41:032][809]LogSlate: Window 'Submit Files' being destroyed
+[2019.09.17-07.06.42:630][809]LogSourceControl: commit successful: [develop fddc611] add more VR Plugin files
+[2019.09.17-07.06.42:935][809]SourceControl: [develop fddc611] add more VR Plugin files
+[2019.09.17-07.06.42:935][809]SourceControl:  14 files changed, 0 insertions(+), 0 deletions(-)
+[2019.09.17-07.06.42:935][809]SourceControl:  create mode 100644 Content/VRExpansion/DrawerBase/DrawerBaseActor.uasset
+[2019.09.17-07.06.42:935][809]SourceControl:  create mode 100644 Content/VRExpansion/DrawerBase/temp_desk.uasset
+[2019.09.17-07.06.42:935][809]SourceControl:  create mode 100644 Content/VRExpansion/DrawerBase/temp_desk_drawer1.uasset
+[2019.09.17-07.06.42:935][809]SourceControl:  create mode 100644 Content/VRExpansion/DrawerBase/temp_desk_drawer2.uasset
+[2019.09.17-07.06.42:935][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset
+[2019.09.17-07.06.42:935][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Door/DoorActor.uasset
+[2019.09.17-07.06.42:935][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Door/door1_aldoor.uasset
+[2019.09.17-07.06.42:935][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Door/door1_door.uasset
+[2019.09.17-07.06.42:935][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Door/door1_doorhendle.uasset
+[2019.09.17-07.06.42:936][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Door/glas.uasset
+[2019.09.17-07.06.42:936][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Door/hendle.uasset
+[2019.09.17-07.06.42:936][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Door/wood.uasset
+[2019.09.17-07.06.42:936][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Door/wood2.uasset
+[2019.09.17-07.06.42:936][809]SourceControl:  create mode 100644 Content/VRExpansion/FirstPerson/Door/woodteak.uasset
+[2019.09.17-07.06.42:943][809]SourceControl: Commited [develop fddc611] add more VR Plugin files.
