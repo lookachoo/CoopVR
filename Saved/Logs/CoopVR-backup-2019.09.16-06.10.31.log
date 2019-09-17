@@ -1,0 +1,1105 @@
+﻿Log file open, 09/15/19 21:37:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CoopVR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.318165
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU:        Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.16-04.37.40:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.16-04.37.40:182][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.16-04.37.40:182][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.16-04.37.40:189][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.16-04.37.40:189][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.16-04.37.40:190][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.16-04.37.40:190][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.16-04.37.40:190][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.16-04.37.40:198][  0]LogHAL: Display: Platform has ~ 16 GB [17124184064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.16-04.37.40:198][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.16-04.37.40:198][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.16-04.37.40:198][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:198][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.16-04.37.40:199][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.16-04.37.40:200][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.16-04.37.40:200][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.16-04.37.40:200][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-04.37.40:200][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.16-04.37.40:200][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.16-04.37.40:200][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.16-04.37.40:200][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.16-04.37.40:200][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.16-04.37.40:200][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.16-04.37.40:200][  0]LogInit: Computer: DESKTOP-21FRT5R
+[2019.09.16-04.37.40:200][  0]LogInit: User: broki
+[2019.09.16-04.37.40:200][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.16-04.37.40:200][  0]LogInit: High frequency timer resolution =3.417993 MHz
+[2019.09.16-04.37.40:200][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.16-04.37.40:200][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.16-04.37.40:200][  0]LogMemory: Process Physical Memory: 98.86 MB used, 98.86 MB peak
+[2019.09.16-04.37.40:200][  0]LogMemory: Process Virtual Memory: 86.72 MB used, 86.72 MB peak
+[2019.09.16-04.37.40:200][  0]LogMemory: Physical Memory: 7021.59 MB used,  9309.31 MB free, 16330.89 MB total
+[2019.09.16-04.37.40:200][  0]LogMemory: Virtual Memory: 4639.28 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.09.16-04.37.40:234][  0]LogInit: Using OS detected language (en-US).
+[2019.09.16-04.37.40:234][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.16-04.37.40:237][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.16-04.37.40:421][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.16-04.37.40:481][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.16-04.37.40:481][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.16-04.37.41:325][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.16-04.37.41:412][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2019.09.16-04.37.41:412][  0]LogD3D11RHI:       8031/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.16-04.37.41:415][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.16-04.37.41:415][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.16-04.37.41:415][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.16-04.37.41:426][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.16-04.37.41:426][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.16-04.37.41:426][  0]LogWindows: EnumDisplayDevices:
+[2019.09.16-04.37.41:426][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2019.09.16-04.37.41:427][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2019.09.16-04.37.41:427][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.09.16-04.37.41:428][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.09.16-04.37.41:428][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.16-04.37.41:428][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2019.09.16-04.37.41:428][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2019.09.16-04.37.41:428][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2019.09.16-04.37.41:428][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2019.09.16-04.37.41:486][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.16-04.37.41:496][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.16-04.37.41:496][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.16-04.37.41:496][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.16-04.37.41:504][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.16-04.37.41:928][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.16-04.37.41:945][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.16-04.37.41:963][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.16-04.37.41:981][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.16-04.37.41:999][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.16-04.37.42:016][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.16-04.37.42:034][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.16-04.37.42:052][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.16-04.37.42:062][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.16-04.37.42:164][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.16-04.37.42:166][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.16-04.37.42:222][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.16-04.37.42:222][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.16-04.37.42:251][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.16-04.37.42:251][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.16-04.37.42:267][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.16-04.37.42:284][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.16-04.37.42:298][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.16-04.37.42:314][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.16-04.37.42:371][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.16-04.37.42:371][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.16-04.37.42:371][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.16-04.37.42:389][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.16-04.37.42:485][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (G:/Epic Games/UnrealProjects/CoopVR/Intermediate/Shaders/WorkingDirectory/17936/).
+[2019.09.16-04.37.42:485][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/broki/AppData/Local/Temp/UnrealShaderWorkingDir/D85B5BF0481838744451AD85B052CF52/'.
+[2019.09.16-04.37.42:490][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.16-04.37.42:490][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.16-04.37.42:490][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.16-04.37.43:131][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.16-04.37.43:229][  0]LogDerivedDataCache: Loaded boot cache 0.10s 89MB C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.16-04.37.43:229][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.16-04.37.43:229][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Epic Games/UnrealProjects/CoopVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.16-04.37.43:229][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.16-04.37.43:229][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Epic Games/UnrealProjects/CoopVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.16-04.37.43:229][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.16-04.37.43:242][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.16-04.37.43:246][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.09.16-04.37.43:257][  0]LogDerivedDataCache: Using Local data cache path C:/Users/broki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.16-04.37.43:257][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.16-04.37.43:257][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.16-04.37.43:288][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.16-04.37.43:290][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.16-04.37.43:290][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.16-04.37.43:412][  0]LogAssetRegistry: FAssetRegistry took 0.0414 seconds to start up
+[2019.09.16-04.37.43:935][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.16-04.37.44:114][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.16-04.37.44:114][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.16-04.37.44:114][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.16-04.37.44:114][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.16-04.37.44:114][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.16-04.37.44:128][  0]LogNetVersion: CoopVR 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1173904992)
+[2019.09.16-04.37.44:646][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.063206 seconds
+[2019.09.16-04.37.44:654][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
+[2019.09.16-04.37.44:654][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
+[2019.09.16-04.37.44:654][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.16-04.37.46:096][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.16-04.37.46:112][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.16-04.37.46:254][  0]SourceControl: Source control is disabled
+[2019.09.16-04.37.47:403][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.16-04.37.48:239][  0]LogOcInput: OculusInput pre-init called
+[2019.09.16-04.37.52:219][  0]LogEngine: Initializing Engine...
+[2019.09.16-04.37.52:221][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-4883A031
+[2019.09.16-04.37.52:222][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.16-04.37.52:508][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.16-04.37.52:540][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.16-04.37.52:861][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.16-04.37.52:919][  0]LogInit: FAudioDevice initialized.
+[2019.09.16-04.37.52:920][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.16-04.37.53:071][  0]LogDerivedDataCache: Saved boot cache 0.15s 92MB C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.16-04.37.53:093][  0]LogInit: Texture streaming: Enabled
+[2019.09.16-04.37.53:141][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.16-04.37.53:186][  0]LogInit: Transaction tracking system initialized
+[2019.09.16-04.37.53:245][  0]BlueprintLog: New page: Editor Load
+[2019.09.16-04.37.53:431][  0]LocalizationService: Localization service is disabled
+[2019.09.16-04.37.53:883][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.16-04.37.53:883][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.16-04.37.54:364][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/' took 0.05s
+[2019.09.16-04.37.56:368][  0]Cmd: MAP LOAD FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.16-04.37.56:369][  0]LightingResults: New page: Lighting Build
+[2019.09.16-04.37.56:375][  0]MapCheck: New page: Map Check
+[2019.09.16-04.37.56:375][  0]LightingResults: New page: Lighting Build
+[2019.09.16-04.37.56:402][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.09.16-04.37.56:686][  0]LogGameplayTags: Warning: Invalid GameplayTag GripType.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultGripTag.
+[2019.09.16-04.37.56:687][  0]LogGameplayTags: Warning: Invalid GameplayTag DropType.OnTriggerRelease found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultDropTag.
+[2019.09.16-04.37.56:687][  0]LogGameplayTags: Warning: Invalid GameplayTag DropType.Secondary.OnSideGrip found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultSecondaryDropTag.
+[2019.09.16-04.37.56:687][  0]LogGameplayTags: Warning: Invalid GameplayTag GripType.Secondary.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultSecondaryGripTag.
+[2019.09.16-04.37.56:687][  0]LogGameplayTags: Warning: Invalid GameplayTag UseType.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultUseTag.
+[2019.09.16-04.37.56:687][  0]LogGameplayTags: Warning: Invalid GameplayTag UseType.EndUse.OnTriggerRelease found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultEndUseTag.
+[2019.09.16-04.37.56:892][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/AllLevels/PlayerSaveGame.PlayerSaveGame_C:S_PlayerInfo'. Unknown structure.
+[2019.09.16-04.37.56:892][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_2 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/AllLevels/PlayerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.16-04.37.56:904][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:PlayerInfo'. Unknown structure.
+[2019.09.16-04.37.56:928][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_2 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/UI/MainMenu/OptionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.16-04.37.57:592][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.16-04.37.57:594][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.16-04.37.57:758][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.09.16-04.37.57:759][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.16-04.37.57:802][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.09.16-04.37.57:802][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.16-04.37.57:802][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2019.09.16-04.37.57:802][  0]LogFileHelpers: Loading map 'MainMenu' took 1.434
+[2019.09.16-04.37.57:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.16-04.37.57:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.16-04.37.57:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.16-04.37.57:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.16-04.37.57:993][  0]LogCollectionManager: Loaded 0 collections in 0.004891 seconds
+[2019.09.16-04.37.58:015][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Collections/' took 0.01s
+[2019.09.16-04.37.58:015][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/Developers/broki/Collections/' took 0.00s
+[2019.09.16-04.37.58:015][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/Collections/' took 0.00s
+[2019.09.16-04.37.58:015][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.16-04.37.58:033][  0]LogContentBrowser: Native class hierarchy populated in 0.0171 seconds. Added 2922 classes and 741 folders.
+[2019.09.16-04.37.58:047][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.16-04.37.58:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:071][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:071][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-04.37.58:183][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.16-04.37.58:192][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.09.16-04.37.58:319][  0]LogSlate: Took 0.000490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.16-04.37.58:322][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.16-04.37.58:330][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.16-04.37.58:435][  0]LogRenderer: Reallocating scene render targets to support 1212x660 Format 10 NumSamples 1 (Frame:1).
+[2019.09.16-04.37.58:548][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.16-04.37.58:548][  0]LogLoad: (Engine Initialization) Total time: 22.10 seconds
+[2019.09.16-04.37.58:548][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.16-04.37.58:558][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.16-04.37.58:624][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.16-04.37.58:671][  1]LogAssetRegistry: Asset discovery search completed in 15.2817 seconds
+[2019.09.16-04.37.58:674][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.09.16-04.37.58:674][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2019.09.16-04.37.59:590][106]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.16-04.38.13:671][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.38.16:738][592]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:PassCharacterInfoToServer.PlayerSettingsInfo'. Unknown structure.
+[2019.09.16-04.38.16:738][592]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:ExecuteUbergraph_GameplayPC.K2Node_CustomEvent_PlayerSettingsInfo'. Unknown structure.
+[2019.09.16-04.38.16:739][592]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:PlayerSettings'. Unknown structure.
+[2019.09.16-04.38.16:883][592]LogClass: Warning: Property PlayerSettings of PlayerSettings has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_2 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/Gameplay/GameplayPC.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.16-04.38.17:300][592]LogClass: Warning: Property PlayerSettings of PlayerSettings has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.16-04.38.17:379][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:379][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:415][592]LogGameplayTags: Warning: Invalid GameplayTag Weapon.Gun found while loading property /Script/VRExpansionPlugin.GrippableStaticMeshActor:GameplayTags.
+[2019.09.16-04.38.17:415][592]LogGameplayTags: Warning: Invalid GameplayTag DropType.OnSideGrip found while loading property /Script/VRExpansionPlugin.GrippableStaticMeshActor:GameplayTags.
+[2019.09.16-04.38.17:459][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:459][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:462][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:462][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:465][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:465][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:467][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:467][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:467][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:467][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:467][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:467][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:467][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:467][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:473][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:473][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:473][592]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube'
+[2019.09.16-04.38.17:473][592]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube' while loading NULL.
+[2019.09.16-04.38.17:811][592]LogAIModule: Creating AISystem for world Lobby
+[2019.09.16-04.38.17:837][592]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Lobby.Lobby
+[2019.09.16-04.38.17:895][592]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.09.16-04.38.17:896][592]Cmd: MAP LOAD FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.16-04.38.17:896][592]LightingResults: New page: Lighting Build
+[2019.09.16-04.38.17:897][592]LoadErrors: New page: Loading map: Lobby.umap
+[2019.09.16-04.38.17:897][592]MapCheck: New page: Map Check
+[2019.09.16-04.38.17:897][592]LightingResults: New page: Lighting Build
+[2019.09.16-04.38.17:923][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.09.16-04.38.18:153][592]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.16-04.38.18:179][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.09.16-04.38.18:225][592]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.16-04.38.18:225][592]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2019.09.16-04.38.18:225][592]LogFileHelpers: Loading map 'Lobby' took 0.329
+[2019.09.16-04.38.18:276][592]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': BP_PickupCube_C /Game/Maps/Lobby.Lobby:PersistentLevel.BP_PickupCube_2
+[2019.09.16-04.40.13:148][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.16-04.40.14:768][455]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2019.09.16-04.40.16:572][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.40.17:918][720]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.09.16-04.40.21:250][ 16]Cmd: DELETE
+[2019.09.16-04.40.21:250][ 16]Cmd: ACTOR DELETE
+[2019.09.16-04.40.21:254][ 16]LogEditorActor: Deleted Actor: BlockingVolume
+[2019.09.16-04.40.21:279][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.09.16-04.40.21:279][ 16]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.09.16-04.40.48:214][175]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_VR_C /Engine/Transient.World_2:PersistentLevel.VRbodyWithLocomotion_C_0.CharacterMesh0.ThirdPerson_AnimBP_VR_C_0
+	Function /Game/VirtualRealityBP/VRMannequin/Animations/ThirdPerson_AnimBP_VR.ThirdPerson_AnimBP_VR_C:ExecuteUbergraph_ThirdPerson_AnimBP_VR:01B0
+[2019.09.16-04.40.48:214][175]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_VR_C /Engine/Transient.World_2:PersistentLevel.VRbodyWithLocomotion_C_0.CharacterMesh0.ThirdPerson_AnimBP_VR_C_0
+	Function /Game/VirtualRealityBP/VRMannequin/Animations/ThirdPerson_AnimBP_VR.ThirdPerson_AnimBP_VR_C:ExecuteUbergraph_ThirdPerson_AnimBP_VR:026E
+[2019.09.16-04.40.58:519][173]Cmd: DELETE
+[2019.09.16-04.40.58:519][173]Cmd: ACTOR DELETE
+[2019.09.16-04.40.58:522][173]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2019.09.16-04.40.58:547][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.09.16-04.40.58:548][173]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.09.16-04.41.01:148][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.41.05:399][964]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.16-04.41.06:968][135]Cmd: TRANSACTION UNDO
+[2019.09.16-04.41.06:968][135]LogEditorTransaction: Undo Brush Add
+[2019.09.16-04.41.08:390][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.41.10:097][485]LogActorFactory: Actor Factory created Cube
+[2019.09.16-04.41.10:432][515]LogActorFactory: Actor Factory created Cube
+[2019.09.16-04.41.13:514][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.41.16:460][ 62]Cmd: TRANSACTION UNDO
+[2019.09.16-04.41.16:460][ 62]LogEditorTransaction: Undo Create Actors
+[2019.09.16-04.41.17:875][181]Cmd: TRANSACTION UNDO
+[2019.09.16-04.41.17:875][181]LogEditorTransaction: Undo Create Actors
+[2019.09.16-04.41.18:699][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.41.40:767][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.43.02:988][117]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2019.09.16-04.43.03:344][117]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.16-04.43.03:344][117]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.16-04.43.03:344][117]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.16-04.43.03:344][117]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.16-04.43.03:344][117]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.16-04.43.03:344][117]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.16-04.43.03:345][117]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.16-04.43.03:345][117]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.16-04.43.03:345][117]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.16-04.43.03:345][117]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.16-04.43.03:345][117]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.16-04.43.03:345][117]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.16-04.43.03:345][117]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.16-04.43.03:345][117]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.16-04.43.03:346][117]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode'
+[2019.09.16-04.43.03:346][117]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode'
+[2019.09.16-04.43.03:346][117]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode'
+[2019.09.16-04.43.03:346][117]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode'
+[2019.09.16-04.43.03:347][117]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance'
+[2019.09.16-04.43.03:347][117]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance'
+[2019.09.16-04.43.03:347][117]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance'
+[2019.09.16-04.43.03:347][117]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance'
+[2019.09.16-04.43.03:348][117]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode'
+[2019.09.16-04.43.03:348][117]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode'
+[2019.09.16-04.43.03:348][117]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode'
+[2019.09.16-04.43.03:348][117]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode'
+[2019.09.16-04.43.03:349][117]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.16-04.43.03:349][117]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.16-04.43.03:349][117]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.16-04.43.03:349][117]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.16-04.43.03:349][117]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.16-04.43.03:349][117]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.16-04.43.03:349][117]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.16-04.43.03:349][117]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.16-04.43.03:350][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:350][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:350][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator5' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:350][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator6' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:350][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:350][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator7' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:350][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator8' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:351][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:351][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:351][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator5' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:351][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator6' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:351][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:351][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator7' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:351][117]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator8' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:352][117]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.16-04.43.03:353][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:353][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:353][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:353][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:353][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:353][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:354][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:354][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:354][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:354][117]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.16-04.43.03:355][117]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection'
+[2019.09.16-04.43.03:355][117]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection'
+[2019.09.16-04.43.03:355][117]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection'
+[2019.09.16-04.43.03:355][117]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection'
+[2019.09.16-04.43.03:375][117]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.09.16-04.43.04:876][117]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.16-04.43.06:426][289]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.16-04.45.56:650][168]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Physics/Collision/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2019.09.16-04.49.19:851][861]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2019.09.16-04.49.19:854][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.16-04.49.20:241][861]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_Auto19655736F4026765DAA940DB2C894AF70.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto1.umap'
+[2019.09.16-04.49.20:244][861]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.443
+[2019.09.16-04.49.20:244][861]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.443
+[2019.09.16-04.50.12:565][491]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.09.16-04.50.12:565][491]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.22/Enterprise/Plugins/' was aborted.
+[2019.09.16-04.50.19:571][160]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.09.16-04.50.20:622][160]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.16-04.53.50:325][ 72]LogSlate: Window 'New Channel' being destroyed
+[2019.09.16-04.54.03:973][312]LogSlate: Window 'New Channel' being destroyed
+[2019.09.16-04.54.17:660][858]LogSlate: Window 'New Channel' being destroyed
+[2019.09.16-04.58.40:382][877]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2019.09.16-04.58.41:817][877]LogSlate: Window 'Save Content' being destroyed
+[2019.09.16-04.58.41:975][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-04.58.42:026][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.09.16-04.58.42:512][877]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/LobbyA5A8FD0C410451AE879BA1AC38A69CED.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap'
+[2019.09.16-04.58.42:564][877]LogFileHelpers: Saving map 'Lobby' took 0.589
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:568][719]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: Unable to load Default__VRGameInstance_C with outer Package /Game/VRExpansion/Vive/VRGameInstance because its class does not exist
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:569][719]LoadErrors: Failed to load /Script/AdvancedSessions.AdvancedFriendsGameInstance Referenced by VRGameInstance
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:569][719]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.16-04.59.41:570][719]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.16-04.59.41:570][719]LoadErrors: Failed to load /Script/AdvancedSessions.AdvancedFriendsGameInstance Referenced by PackageMetaData
+[2019.09.16-04.59.41:570][719]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.16-04.59.41:570][719]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.16-04.59.41:587][719]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance
+[2019.09.16-04.59.43:186][719]LogSlate: Window 'Message' being destroyed
+[2019.09.16-04.59.43:276][719]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'bIsClient': BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.16-04.59.43:276][719]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'bIsHosting': BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.16-05.00.25:965][ 12]LogHMD: SteamVR Shutting down.
+[2019.09.16-05.07.21:724][371]SourceControl: fatal: /Script: '/Script' is outside repository
+[2019.09.16-05.13.01:973][878]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.09.16-05.13.01:998][878]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-05.13.03:856][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.16-05.13.04:999][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-05.13.10:109][636]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.09.16-05.13.13:951][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.16-05.13.14:832][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-05.13.22:912][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-05.13.22:962][916]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2019.09.16-05.13.23:381][916]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/LobbyAE0FBAA9481C01FA06113E922F316171.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap'
+[2019.09.16-05.13.23:565][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2019.09.16-05.13.23:617][916]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_BuiltData36B2B0034F408429E8351E94C9A79A8B.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset'
+[2019.09.16-05.15.31:763][907]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/VRExpansion/Vive/MovementMode.MovementMode
+[2019.09.16-05.15.37:254][386]LogSlate: Window 'MovementMode' being destroyed
+[2019.09.16-05.15.41:337][730]LogAssetEditorManager: Opening Asset editor for DataTable /Game/VRExpansion/Vive/DefaultGameplayTags.DefaultGameplayTags
+[2019.09.16-05.15.41:344][730]LogBlueprintActionDatabase: Requesting refresh due to module change: DataTableEditor (loaded)
+[2019.09.16-05.16.14:801][427]LogSlate: Window 'DefaultGameplayTags' being destroyed
+[2019.09.16-05.17.17:282][500]LogRenderer: Reallocating scene render targets to support 1212x800 Format 10 NumSamples 1 (Frame:1).
+[2019.09.16-05.56.19:499][521]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter
+[2019.09.16-05.58.45:151][809]LogUObjectHash: Compacting FUObjectHashTables data took  21.77ms
+[2019.09.16-05.58.45:152][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.491
+[2019.09.16-05.58.45:155][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRExpansion/Vive/Vive_PawnCharacter] ([1] browsable assets)...
+[2019.09.16-05.58.45:176][809]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter]
+[2019.09.16-05.58.45:176][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRExpansion/Vive/Vive_PawnCharacter]
+[2019.09.16-05.58.47:089][809]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacter_Auto23DBCD095441EDED2B49B408DE8E9E679.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/VRExpansion/Vive/Vive_PawnCharacter_Auto2.uasset'
+[2019.09.16-05.58.47:097][809]LogFileHelpers: Auto-saving content packages took 1.945
+[2019.09.16-06.06.37:616][172]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.16-06.06.38:494][172]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2019.09.16-06.06.42:458][364]LogSlate: Window 'Vive_PawnCharacter' being destroyed
+[2019.09.16-06.08.26:428][451]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface
+[2019.09.16-06.08.47:293][130]LogSlate: Window 'PickupActorInterface' being destroyed
+[2019.09.16-06.08.56:045][949]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface
+[2019.09.16-06.09.03:976][668]LogSlate: Window 'PickupActorInterface' being destroyed
+[2019.09.16-06.10.05:795][319]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-06.10.11:950][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_N_Idle_Pose.ALS_N_Idle_Pose
+[2019.09.16-06.10.11:950][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_N_Idle_Pose.ALS_N_Idle_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:952][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_RF0.ALS_N_Stop_-90_RF0
+[2019.09.16-06.10.11:952][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_RF0.ALS_N_Stop_-90_RF0) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:953][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_0_RF.ALS_N_Stop_0_RF
+[2019.09.16-06.10.11:953][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_0_RF.ALS_N_Stop_0_RF) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:955][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_RF.ALS_N_Stop_90_RF
+[2019.09.16-06.10.11:955][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_RF.ALS_N_Stop_90_RF) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:957][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_RF0.ALS_N_Stop_90_RF0
+[2019.09.16-06.10.11:957][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_RF0.ALS_N_Stop_90_RF0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:958][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_RF.ALS_N_Stop_-90_RF
+[2019.09.16-06.10.11:958][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_RF.ALS_N_Stop_-90_RF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:962][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_FallLoop.ALS_N_FallLoop
+[2019.09.16-06.10.11:962][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_FallLoop.ALS_N_FallLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:964][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_F_Pose.ALS_N_InAIr_Lean_F_Pose
+[2019.09.16-06.10.11:964][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_F_Pose.ALS_N_InAIr_Lean_F_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:965][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_L_Pose.ALS_N_InAIr_Lean_L_Pose
+[2019.09.16-06.10.11:965][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_L_Pose.ALS_N_InAIr_Lean_L_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:966][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_B_Pose.ALS_N_InAIr_Lean_B_Pose
+[2019.09.16-06.10.11:967][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_B_Pose.ALS_N_InAIr_Lean_B_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:968][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_R_Pose.ALS_N_Lean_R_Pose
+[2019.09.16-06.10.11:968][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_R_Pose.ALS_N_Lean_R_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:969][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAir_Additive_Pose.ALS_N_InAir_Additive_Pose
+[2019.09.16-06.10.11:969][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAir_Additive_Pose.ALS_N_InAir_Additive_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:970][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_R_Pose.ALS_N_InAIr_Lean_R_Pose
+[2019.09.16-06.10.11:970][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_InAIr_Lean_R_Pose.ALS_N_InAIr_Lean_R_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:975][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/GettingUp/ALS_CLF_GetUpFromBack.ALS_CLF_GetUpFromBack
+[2019.09.16-06.10.11:975][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/GettingUp/ALS_CLF_GetUpFromBack.ALS_CLF_GetUpFromBack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:978][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CRF_Turn_L90.ALS_CRF_Turn_L90
+[2019.09.16-06.10.11:978][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CRF_Turn_L90.ALS_CRF_Turn_L90) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:980][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LU180.ALS_N_AO_LU180
+[2019.09.16-06.10.11:980][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LU180.ALS_N_AO_LU180) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:982][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LU90.ALS_N_AO_LU90
+[2019.09.16-06.10.11:982][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LU90.ALS_N_AO_LU90) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.11:988][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.09.16-06.10.12:088][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.09.16-06.10.12:136][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_RF_Idle_Pose.ALS_RF_Idle_Pose
+[2019.09.16-06.10.12:137][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_RF_Idle_Pose.ALS_RF_Idle_Pose) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:139][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_N_Idle_Additive.ALS_N_Idle_Additive
+[2019.09.16-06.10.12:143][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_N_Idle_Additive.ALS_N_Idle_Additive) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:149][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_CLF_to_CRF_Idle.ALS_CLF_to_CRF_Idle
+[2019.09.16-06.10.12:149][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_CLF_to_CRF_Idle.ALS_CLF_to_CRF_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:152][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_LF_Idle_Pose.ALS_LF_Idle_Pose
+[2019.09.16-06.10.12:153][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_LF_Idle_Pose.ALS_LF_Idle_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:154][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_0_LF.ALS_N_Stop_0_LF
+[2019.09.16-06.10.12:154][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_0_LF.ALS_N_Stop_0_LF) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:157][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_LF0.ALS_N_Stop_90_LF0
+[2019.09.16-06.10.12:158][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_LF0.ALS_N_Stop_90_LF0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:161][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_LF.ALS_N_Stop_90_LF
+[2019.09.16-06.10.12:162][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_90_LF.ALS_N_Stop_90_LF) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:164][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_LF_Turn_R90.ALS_LF_Turn_R90
+[2019.09.16-06.10.12:164][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_LF_Turn_R90.ALS_LF_Turn_R90) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:167][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_LF.ALS_N_Stop_-90_LF
+[2019.09.16-06.10.12:167][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_LF.ALS_N_Stop_-90_LF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:169][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_LF0.ALS_N_Stop_-90_LF0
+[2019.09.16-06.10.12:170][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_N_Stop_-90_LF0.ALS_N_Stop_-90_LF0) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:176][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_L.ALS_LF_Pivot_L
+[2019.09.16-06.10.12:177][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_L.ALS_LF_Pivot_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:180][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_F.ALS_LF_Pivot_F
+[2019.09.16-06.10.12:180][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_F.ALS_LF_Pivot_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:182][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_CRF_Idle.ALS_N_to_CRF_Idle
+[2019.09.16-06.10.12:183][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_CRF_Idle.ALS_N_to_CRF_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:185][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_LF_Idle.ALS_N_to_LF_Idle
+[2019.09.16-06.10.12:186][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_LF_Idle.ALS_N_to_LF_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:188][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_CLF_Idle.ALS_N_to_CLF_Idle
+[2019.09.16-06.10.12:188][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_CLF_Idle.ALS_N_to_CLF_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:190][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_L.ALS_RF_Walk_L
+[2019.09.16-06.10.12:191][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_L.ALS_RF_Walk_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:194][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_F.ALS_RF_Walk_F
+[2019.09.16-06.10.12:194][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_F.ALS_RF_Walk_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:197][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_R.ALS_RF_Walk_R
+[2019.09.16-06.10.12:197][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_R.ALS_RF_Walk_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:200][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_F.ALS_N_Walk_F
+[2019.09.16-06.10.12:200][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_F.ALS_N_Walk_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:203][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FR.ALS_N_Walk_FR
+[2019.09.16-06.10.12:204][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FR.ALS_N_Walk_FR) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:206][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FL.ALS_N_Walk_FL
+[2019.09.16-06.10.12:207][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FL.ALS_N_Walk_FL) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:209][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FR_45.ALS_N_Walk_FR_45
+[2019.09.16-06.10.12:210][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FR_45.ALS_N_Walk_FR_45) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:212][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FL_45.ALS_N_Walk_FL_45
+[2019.09.16-06.10.12:213][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_FL_45.ALS_N_Walk_FL_45) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:216][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_FL.ALS_N_Run_FL
+[2019.09.16-06.10.12:216][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_FL.ALS_N_Run_FL) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:219][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2019.09.16-06.10.12:219][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Sprint_F.ALS_N_Sprint_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:221][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_FR.ALS_N_Run_FR
+[2019.09.16-06.10.12:221][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_FR.ALS_N_Run_FR) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:224][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_F.ALS_N_Run_F
+[2019.09.16-06.10.12:224][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_F.ALS_N_Run_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:234][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_B.ALS_N_Walk_B
+[2019.09.16-06.10.12:234][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_B.ALS_N_Walk_B) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:237][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_B.ALS_N_Run_B
+[2019.09.16-06.10.12:237][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_B.ALS_N_Run_B) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:246][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_90_RF.ALS_LF_Stop_90_RF
+[2019.09.16-06.10.12:247][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_90_RF.ALS_LF_Stop_90_RF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:249][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_0_LF.ALS_LF_Stop_0_LF
+[2019.09.16-06.10.12:249][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_0_LF.ALS_LF_Stop_0_LF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:252][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_0_RF.ALS_LF_Stop_0_RF
+[2019.09.16-06.10.12:252][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_0_RF.ALS_LF_Stop_0_RF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:254][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_90_LF.ALS_LF_Stop_90_LF
+[2019.09.16-06.10.12:254][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_LF_Stop_90_LF.ALS_LF_Stop_90_LF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:259][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_F.ALS_N_AO_F
+[2019.09.16-06.10.12:260][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_F.ALS_N_AO_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:261][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_FD.ALS_N_AO_FD
+[2019.09.16-06.10.12:262][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_FD.ALS_N_AO_FD) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:264][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_FU.ALS_N_AO_FU
+[2019.09.16-06.10.12:264][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_FU.ALS_N_AO_FU) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:267][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_L180.ALS_N_AO_L180
+[2019.09.16-06.10.12:267][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_L180.ALS_N_AO_L180) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:268][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LD180.ALS_N_AO_LD180
+[2019.09.16-06.10.12:269][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LD180.ALS_N_AO_LD180) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:270][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_L90.ALS_N_AO_L90
+[2019.09.16-06.10.12:270][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_L90.ALS_N_AO_L90) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:272][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LD90.ALS_N_AO_LD90
+[2019.09.16-06.10.12:272][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_LD90.ALS_N_AO_LD90) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:274][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_R180.ALS_N_AO_R180
+[2019.09.16-06.10.12:274][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_R180.ALS_N_AO_R180) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:276][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_R90.ALS_N_AO_R90
+[2019.09.16-06.10.12:276][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_R90.ALS_N_AO_R90) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:278][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RD180.ALS_N_AO_RD180
+[2019.09.16-06.10.12:278][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RD180.ALS_N_AO_RD180) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:280][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RD90.ALS_N_AO_RD90
+[2019.09.16-06.10.12:281][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RD90.ALS_N_AO_RD90) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:282][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RU180.ALS_N_AO_RU180
+[2019.09.16-06.10.12:283][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RU180.ALS_N_AO_RU180) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:284][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RU90.ALS_N_AO_RU90
+[2019.09.16-06.10.12:285][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AimOffsets/ALS_N_AO_RU90.ALS_N_AO_RU90) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:294][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CRF_Turn_R90.ALS_CRF_Turn_R90
+[2019.09.16-06.10.12:294][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CRF_Turn_R90.ALS_CRF_Turn_R90) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:297][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_CRF_to_CLF_Idle.ALS_CRF_to_CLF_Idle
+[2019.09.16-06.10.12:298][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_CRF_to_CLF_Idle.ALS_CRF_to_CLF_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:300][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_CLF_Stop.ALS_CLF_Stop
+[2019.09.16-06.10.12:301][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_CLF_Stop.ALS_CLF_Stop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:303][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_CRF_Stop.ALS_CRF_Stop
+[2019.09.16-06.10.12:304][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_CRF_Stop.ALS_CRF_Stop) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:306][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_R.ALS_RF_Pivot_R
+[2019.09.16-06.10.12:306][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_R.ALS_RF_Pivot_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:309][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_L180.ALS_N_Turn_L180
+[2019.09.16-06.10.12:310][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_L180.ALS_N_Turn_L180) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:313][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_BL.ALS_N_Run_BL
+[2019.09.16-06.10.12:313][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_BL.ALS_N_Run_BL) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:320][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_F.ALS_CLF_Walk_F
+[2019.09.16-06.10.12:321][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_F.ALS_CLF_Walk_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:323][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_B.ALS_CLF_Walk_B
+[2019.09.16-06.10.12:324][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_B.ALS_CLF_Walk_B) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:327][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_L.ALS_CLF_Walk_L
+[2019.09.16-06.10.12:327][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_L.ALS_CLF_Walk_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:330][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_L90.ALS_N_Turn_L90
+[2019.09.16-06.10.12:330][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_L90.ALS_N_Turn_L90) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:333][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_LF_to_RF_Idle.ALS_LF_to_RF_Idle
+[2019.09.16-06.10.12:334][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_LF_to_RF_Idle.ALS_LF_to_RF_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:336][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_LF_to_CLF_Idle.ALS_LF_to_CLF_Idle
+[2019.09.16-06.10.12:337][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_LF_to_CLF_Idle.ALS_LF_to_CLF_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:340][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_Land.ALS_N_Land
+[2019.09.16-06.10.12:340][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_Land.ALS_N_Land) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:342][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_Jump.ALS_N_Jump
+[2019.09.16-06.10.12:343][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_Jump.ALS_N_Jump) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:345][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_AdditiveLandCompression.ALS_N_AdditiveLandCompression
+[2019.09.16-06.10.12:347][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_N_AdditiveLandCompression.ALS_N_AdditiveLandCompression) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:350][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_R.ALS_CLF_Walk_R
+[2019.09.16-06.10.12:350][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CLF_Walk_R.ALS_CLF_Walk_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:353][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_F.ALS_CRF_Walk_F
+[2019.09.16-06.10.12:353][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_F.ALS_CRF_Walk_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:356][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_R.ALS_CRF_Walk_R
+[2019.09.16-06.10.12:356][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_R.ALS_CRF_Walk_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:358][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_B.ALS_CRF_Walk_B
+[2019.09.16-06.10.12:358][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_B.ALS_CRF_Walk_B) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:361][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_L.ALS_CRF_Walk_L
+[2019.09.16-06.10.12:361][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_CRF_Walk_L.ALS_CRF_Walk_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:366][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CLF_Turn_R90.ALS_CLF_Turn_R90
+[2019.09.16-06.10.12:367][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CLF_Turn_R90.ALS_CLF_Turn_R90) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:369][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_90_RF.ALS_RF_Stop_90_RF
+[2019.09.16-06.10.12:369][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_90_RF.ALS_RF_Stop_90_RF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:371][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_90_LF.ALS_RF_Stop_90_LF
+[2019.09.16-06.10.12:371][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_90_LF.ALS_RF_Stop_90_LF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:376][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CRF_Idle_Pose.ALS_CRF_Idle_Pose
+[2019.09.16-06.10.12:376][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CRF_Idle_Pose.ALS_CRF_Idle_Pose) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:377][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CRF_Idle_Additive.ALS_CRF_Idle_Additive
+[2019.09.16-06.10.12:379][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CRF_Idle_Additive.ALS_CRF_Idle_Additive) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:384][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BR.ALS_N_Walk_BR
+[2019.09.16-06.10.12:385][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BR.ALS_N_Walk_BR) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:389][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BR_135.ALS_N_Walk_BR_135
+[2019.09.16-06.10.12:389][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BR_135.ALS_N_Walk_BR_135) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:392][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/GettingUp/ALS_CLF_GetUpFromFront.ALS_CLF_GetUpFromFront
+[2019.09.16-06.10.12:392][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/GettingUp/ALS_CLF_GetUpFromFront.ALS_CLF_GetUpFromFront) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:397][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_LF_Turn_L90.ALS_LF_Turn_L90
+[2019.09.16-06.10.12:397][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_LF_Turn_L90.ALS_LF_Turn_L90) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:401][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BL.ALS_N_Walk_BL
+[2019.09.16-06.10.12:401][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BL.ALS_N_Walk_BL) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:403][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BL_135.ALS_N_Walk_BL_135
+[2019.09.16-06.10.12:404][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Walk_BL_135.ALS_N_Walk_BL_135) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:406][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_BR.ALS_N_Run_BR
+[2019.09.16-06.10.12:407][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_N_Run_BR.ALS_N_Run_BR) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:426][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_0_LF.ALS_RF_Stop_0_LF
+[2019.09.16-06.10.12:427][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_0_LF.ALS_RF_Stop_0_LF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:430][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_0_RF.ALS_RF_Stop_0_RF
+[2019.09.16-06.10.12:430][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Stopping/ALS_RF_Stop_0_RF.ALS_RF_Stop_0_RF) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:436][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CLF_Turn_L90.ALS_CLF_Turn_L90
+[2019.09.16-06.10.12:437][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_CLF_Turn_L90.ALS_CLF_Turn_L90) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:443][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_B_Pose.ALS_N_Lean_B_Pose
+[2019.09.16-06.10.12:444][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_B_Pose.ALS_N_Lean_B_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:449][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_F_Pose.ALS_N_Lean_F_Pose
+[2019.09.16-06.10.12:449][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_F_Pose.ALS_N_Lean_F_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:451][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_L_Pose.ALS_N_Lean_L_Pose
+[2019.09.16-06.10.12:452][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Lean_L_Pose.ALS_N_Lean_L_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:455][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Idle_Additive_Pose.ALS_N_Idle_Additive_Pose
+[2019.09.16-06.10.12:455][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/AdditivePoses/ALS_N_Idle_Additive_Pose.ALS_N_Idle_Additive_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:459][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_B.ALS_RF_Walk_B
+[2019.09.16-06.10.12:460][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_RF_Walk_B.ALS_RF_Walk_B) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:468][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_B.ALS_LF_Pivot_B
+[2019.09.16-06.10.12:468][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_B.ALS_LF_Pivot_B) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:470][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_RF_Turn_L90.ALS_RF_Turn_L90
+[2019.09.16-06.10.12:471][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_RF_Turn_L90.ALS_RF_Turn_L90) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:474][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_R90.ALS_N_Turn_R90
+[2019.09.16-06.10.12:474][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_R90.ALS_N_Turn_R90) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:477][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_L.ALS_LF_Walk_L
+[2019.09.16-06.10.12:477][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_L.ALS_LF_Walk_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:480][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_R.ALS_LF_Walk_R
+[2019.09.16-06.10.12:480][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_R.ALS_LF_Walk_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:507][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_B.ALS_LF_Walk_B
+[2019.09.16-06.10.12:507][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_B.ALS_LF_Walk_B) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:510][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_F.ALS_LF_Walk_F
+[2019.09.16-06.10.12:511][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Locomotion/ALS_LF_Walk_F.ALS_LF_Walk_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:522][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_RF_to_CRF_Idle.ALS_RF_to_CRF_Idle
+[2019.09.16-06.10.12:522][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_RF_to_CRF_Idle.ALS_RF_to_CRF_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:525][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_RF_Idle.ALS_N_to_RF_Idle
+[2019.09.16-06.10.12:526][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/Transitions/ALS_N_to_RF_Idle.ALS_N_to_RF_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:528][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_Flail.ALS_Flail
+[2019.09.16-06.10.12:528][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_Flail.ALS_Flail) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:530][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_Curl.ALS_Curl
+[2019.09.16-06.10.12:531][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/InAir/ALS_Curl.ALS_Curl) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:533][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_R.ALS_LF_Pivot_R
+[2019.09.16-06.10.12:534][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_LF_Pivot_R.ALS_LF_Pivot_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:536][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_B.ALS_RF_Pivot_B
+[2019.09.16-06.10.12:537][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_B.ALS_RF_Pivot_B) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:539][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CLF_Idle_Pose.ALS_CLF_Idle_Pose
+[2019.09.16-06.10.12:539][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CLF_Idle_Pose.ALS_CLF_Idle_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:541][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CLF_Idle_Additive.ALS_CLF_Idle_Additive
+[2019.09.16-06.10.12:544][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Idles/ALS_CLF_Idle_Additive.ALS_CLF_Idle_Additive) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:551][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_RF_Turn_R90.ALS_RF_Turn_R90
+[2019.09.16-06.10.12:551][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_RF_Turn_R90.ALS_RF_Turn_R90) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:554][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_F.ALS_RF_Pivot_F
+[2019.09.16-06.10.12:555][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_F.ALS_RF_Pivot_F) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:559][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_L.ALS_RF_Pivot_L
+[2019.09.16-06.10.12:560][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/Pivots/ALS_RF_Pivot_L.ALS_RF_Pivot_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:572][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_R180.ALS_N_Turn_R180
+[2019.09.16-06.10.12:572][319]LogAnimationCompression: Recompressing (AnimSequence /Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Characters/Mannequin/Animations/TurnInPlace/ALS_N_Turn_R180.ALS_N_Turn_R180) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.16-06.10.12:829][319]LogUObjectHash: Compacting FUObjectHashTables data took  13.82ms
+[2019.09.16-06.10.16:303][319]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.09.16-06.10.16:303][319]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.09.16-06.10.17:013][319]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.09.16-06.10.19:138][319]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.09.16-06.10.19:138][319]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.09.16-06.10.20:496][319]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.09.16-06.10.20:496][319]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.09.16-06.10.21:863][319]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.09.16-06.10.22:568][319]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.09.16-06.10.23:250][319]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.09.16-06.10.23:251][319]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.09.16-06.10.25:988][319]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.09.16-06.10.25:988][319]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.09.16-06.10.25:988][319]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.09.16-06.10.26:678][319]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.09.16-06.10.28:065][319]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.09.16-06.10.28:758][319]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.09.16-06.10.29:420][319]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.16-06.10.30:106][319]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.16-06.10.31:503][319]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.16-06.10.31:504][319]LogShaderCompilers: Display: Shaders left to compile 10

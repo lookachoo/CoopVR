@@ -1,0 +1,1467 @@
+﻿Log file open, 09/15/19 16:21:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CoopVR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.304195
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU:        Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.15-23.21.53:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.15-23.21.53:335][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.15-23.21.53:336][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.15-23.21.53:336][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.15-23.21.53:336][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.15-23.21.53:336][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.15-23.21.53:336][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.15-23.21.53:336][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.15-23.21.53:336][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.15-23.21.53:336][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.15-23.21.53:336][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.15-23.21.53:336][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.15-23.21.53:341][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:341][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.15-23.21.53:341][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.15-23.21.53:342][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:343][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.15-23.21.53:343][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.15-23.21.53:343][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.15-23.21.53:343][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.15-23.21.53:350][  0]LogHAL: Display: Platform has ~ 16 GB [17124184064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.15-23.21.53:350][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.15-23.21.53:350][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.15-23.21.53:350][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.15-23.21.53:351][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.15-23.21.53:352][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.15-23.21.53:352][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.15-23.21.53:352][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.15-23.21.53:352][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.15-23.21.53:352][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.15-23.21.53:352][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.15-23.21.53:352][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.15-23.21.53:352][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.15-23.21.53:352][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.15-23.21.53:352][  0]LogInit: Computer: DESKTOP-21FRT5R
+[2019.09.15-23.21.53:352][  0]LogInit: User: broki
+[2019.09.15-23.21.53:352][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.15-23.21.53:352][  0]LogInit: High frequency timer resolution =3.417993 MHz
+[2019.09.15-23.21.53:352][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.15-23.21.53:352][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.15-23.21.53:352][  0]LogMemory: Process Physical Memory: 99.62 MB used, 99.62 MB peak
+[2019.09.15-23.21.53:352][  0]LogMemory: Process Virtual Memory: 102.79 MB used, 102.79 MB peak
+[2019.09.15-23.21.53:352][  0]LogMemory: Physical Memory: 5195.66 MB used,  11135.23 MB free, 16330.89 MB total
+[2019.09.15-23.21.53:352][  0]LogMemory: Virtual Memory: 4655.28 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.09.15-23.21.53:385][  0]LogInit: Using OS detected language (en-US).
+[2019.09.15-23.21.53:385][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.15-23.21.53:387][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.15-23.21.53:548][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.15-23.21.53:605][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.15-23.21.53:605][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.15-23.21.53:864][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.09.15-23.21.53:864][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.15-23.21.53:949][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2019.09.15-23.21.53:949][  0]LogD3D11RHI:       8031/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.15-23.21.53:953][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.15-23.21.53:953][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.15-23.21.53:953][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.15-23.21.53:960][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.15-23.21.53:960][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.15-23.21.53:960][  0]LogWindows: EnumDisplayDevices:
+[2019.09.15-23.21.53:960][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2019.09.15-23.21.53:961][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2019.09.15-23.21.53:961][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.09.15-23.21.53:962][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.09.15-23.21.53:962][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.15-23.21.53:962][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2019.09.15-23.21.53:962][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2019.09.15-23.21.53:962][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2019.09.15-23.21.53:962][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2019.09.15-23.21.54:021][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.15-23.21.54:029][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.15-23.21.54:030][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.15-23.21.54:030][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.15-23.21.54:037][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.15-23.21.54:416][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.15-23.21.54:431][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.15-23.21.54:448][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.15-23.21.54:464][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.15-23.21.54:480][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.15-23.21.54:496][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.15-23.21.54:514][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.15-23.21.54:530][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.15-23.21.54:539][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.15-23.21.54:620][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.15-23.21.54:622][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.15-23.21.54:674][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.15-23.21.54:674][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.15-23.21.54:699][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.15-23.21.54:699][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.15-23.21.54:712][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.15-23.21.54:724][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.15-23.21.54:737][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.15-23.21.54:751][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.15-23.21.54:795][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.15-23.21.54:795][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.15-23.21.54:795][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.15-23.21.54:809][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.15-23.21.54:893][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (G:/Epic Games/UnrealProjects/CoopVR/Intermediate/Shaders/WorkingDirectory/828/).
+[2019.09.15-23.21.54:893][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/broki/AppData/Local/Temp/UnrealShaderWorkingDir/0922D4E3453F34849D6E78AA44407B3A/'.
+[2019.09.15-23.21.54:897][  0]LogXGEController: Cleaning working directory: C:/Users/broki/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.15-23.21.54:897][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.15-23.21.54:898][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.15-23.21.54:898][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.15-23.21.55:437][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.15-23.21.55:518][  0]LogDerivedDataCache: Loaded boot cache 0.08s 92MB C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.15-23.21.55:519][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.15-23.21.55:519][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Epic Games/UnrealProjects/CoopVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.15-23.21.55:519][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.15-23.21.55:519][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Epic Games/UnrealProjects/CoopVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.15-23.21.55:519][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.15-23.21.55:530][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.15-23.21.55:533][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.09.15-23.21.55:544][  0]LogDerivedDataCache: Using Local data cache path C:/Users/broki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.15-23.21.55:544][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.15-23.21.55:544][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.15-23.21.55:567][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.15-23.21.55:568][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.15-23.21.55:569][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.15-23.21.55:669][  0]LogAssetRegistry: FAssetRegistry took 0.0337 seconds to start up
+[2019.09.15-23.21.56:044][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.15-23.21.56:188][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.15-23.21.56:189][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.15-23.21.56:189][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.15-23.21.56:189][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.15-23.21.56:189][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.15-23.21.56:199][  0]LogNetVersion: CoopVR 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1173904992)
+[2019.09.15-23.21.56:595][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.043410 seconds
+[2019.09.15-23.21.56:601][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
+[2019.09.15-23.21.56:601][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
+[2019.09.15-23.21.56:601][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.15-23.21.57:642][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.15-23.21.57:654][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.15-23.21.57:765][  0]SourceControl: Source control is disabled
+[2019.09.15-23.21.58:467][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.15-23.21.58:811][  0]LogOcInput: OculusInput pre-init called
+[2019.09.15-23.22.01:812][  0]LogEngine: Initializing Engine...
+[2019.09.15-23.22.01:843][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.09.15-23.22.01:844][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.15-23.22.02:054][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.15-23.22.02:077][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.15-23.22.02:209][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.15-23.22.02:300][  0]LogInit: FAudioDevice initialized.
+[2019.09.15-23.22.02:300][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.15-23.22.02:427][  0]LogDerivedDataCache: Saved boot cache 0.13s 92MB C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.15-23.22.02:460][  0]LogInit: Texture streaming: Enabled
+[2019.09.15-23.22.02:494][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.15-23.22.02:527][  0]LogInit: Transaction tracking system initialized
+[2019.09.15-23.22.02:570][  0]BlueprintLog: New page: Editor Load
+[2019.09.15-23.22.02:703][  0]LocalizationService: Localization service is disabled
+[2019.09.15-23.22.03:037][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.15-23.22.03:038][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.15-23.22.03:267][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/' took 0.05s
+[2019.09.15-23.22.04:789][  0]Cmd: MAP LOAD FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.15-23.22.04:789][  0]LightingResults: New page: Lighting Build
+[2019.09.15-23.22.04:794][  0]MapCheck: New page: Map Check
+[2019.09.15-23.22.04:794][  0]LightingResults: New page: Lighting Build
+[2019.09.15-23.22.04:817][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.09.15-23.22.05:031][  0]LogGameplayTags: Warning: Invalid GameplayTag GripType.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultGripTag.
+[2019.09.15-23.22.05:031][  0]LogGameplayTags: Warning: Invalid GameplayTag DropType.OnTriggerRelease found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultDropTag.
+[2019.09.15-23.22.05:031][  0]LogGameplayTags: Warning: Invalid GameplayTag DropType.Secondary.OnSideGrip found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultSecondaryDropTag.
+[2019.09.15-23.22.05:031][  0]LogGameplayTags: Warning: Invalid GameplayTag GripType.Secondary.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultSecondaryGripTag.
+[2019.09.15-23.22.05:031][  0]LogGameplayTags: Warning: Invalid GameplayTag UseType.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultUseTag.
+[2019.09.15-23.22.05:031][  0]LogGameplayTags: Warning: Invalid GameplayTag UseType.EndUse.OnTriggerRelease found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultEndUseTag.
+[2019.09.15-23.22.05:169][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/AllLevels/PlayerSaveGame.PlayerSaveGame_C:S_PlayerInfo'. Unknown structure.
+[2019.09.15-23.22.05:169][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_2 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/AllLevels/PlayerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.15-23.22.05:178][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:PlayerInfo'. Unknown structure.
+[2019.09.15-23.22.05:193][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_2 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/UI/MainMenu/OptionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.15-23.22.05:606][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.15-23.22.05:607][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.15-23.22.05:716][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.09.15-23.22.05:717][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.15-23.22.05:750][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.09.15-23.22.05:750][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.15-23.22.05:750][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.244ms to complete.
+[2019.09.15-23.22.05:750][  0]LogFileHelpers: Loading map 'MainMenu' took 0.961
+[2019.09.15-23.22.05:877][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-23.22.05:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-23.22.05:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-23.22.05:906][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-23.22.05:919][  0]LogCollectionManager: Loaded 0 collections in 0.005518 seconds
+[2019.09.15-23.22.05:938][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Collections/' took 0.01s
+[2019.09.15-23.22.05:938][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/Developers/broki/Collections/' took 0.00s
+[2019.09.15-23.22.05:938][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/Collections/' took 0.00s
+[2019.09.15-23.22.05:938][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.15-23.22.05:951][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2922 classes and 741 folders.
+[2019.09.15-23.22.05:963][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.15-23.22.05:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:972][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:972][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:976][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:976][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.05:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.15-23.22.06:087][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.15-23.22.06:097][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.09.15-23.22.07:458][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.15-23.22.07:500][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.15-23.22.07:503][  0]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.15-23.22.07:512][  0]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.15-23.22.07:625][  0]LogRenderer: Reallocating scene render targets to support 1212x660 Format 10 NumSamples 1 (Frame:1).
+[2019.09.15-23.22.07:789][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.15-23.22.07:790][  0]LogLoad: (Engine Initialization) Total time: 17.91 seconds
+[2019.09.15-23.22.07:790][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.15-23.22.07:800][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.15-23.22.07:859][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.15-23.22.07:912][  1]LogAssetRegistry: Asset discovery search completed in 12.2653 seconds
+[2019.09.15-23.22.07:914][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.15-23.22.07:914][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.09.15-23.22.08:831][106]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.15-23.22.15:032][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-23.22.19:559][210]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:PassCharacterInfoToServer.PlayerSettingsInfo'. Unknown structure.
+[2019.09.15-23.22.19:559][210]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:ExecuteUbergraph_GameplayPC.K2Node_CustomEvent_PlayerSettingsInfo'. Unknown structure.
+[2019.09.15-23.22.19:559][210]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:PlayerSettings'. Unknown structure.
+[2019.09.15-23.22.19:680][210]LogClass: Warning: Property PlayerSettings of PlayerSettings has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_2 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/Gameplay/GameplayPC.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.15-23.22.19:977][210]LogClass: Warning: Property PlayerSettings of PlayerSettings has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.15-23.22.20:316][210]LogAIModule: Creating AISystem for world Lobby
+[2019.09.15-23.22.20:340][210]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Lobby.Lobby
+[2019.09.15-23.22.20:389][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.09.15-23.22.20:390][210]Cmd: MAP LOAD FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.15-23.22.20:390][210]LightingResults: New page: Lighting Build
+[2019.09.15-23.22.20:391][210]LoadErrors: New page: Loading map: Lobby.umap
+[2019.09.15-23.22.20:391][210]MapCheck: New page: Map Check
+[2019.09.15-23.22.20:391][210]LightingResults: New page: Lighting Build
+[2019.09.15-23.22.20:416][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.09.15-23.22.20:610][210]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.15-23.22.20:635][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.09.15-23.22.20:673][210]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.15-23.22.20:674][210]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2019.09.15-23.22.20:674][210]LogFileHelpers: Loading map 'Lobby' took 0.284
+[2019.09.15-23.22.31:178][433]LogGameplayTags: Warning: Invalid GameplayTag Weapon.Gun found while loading property /Script/VRExpansionPlugin.GrippableStaticMeshActor:GameplayTags.
+[2019.09.15-23.22.31:178][433]LogGameplayTags: Warning: Invalid GameplayTag DropType.OnSideGrip found while loading property /Script/VRExpansionPlugin.GrippableStaticMeshActor:GameplayTags.
+[2019.09.15-23.22.32:448][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.15-23.22.39:452][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.15-23.22.45:930][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-23.22.46:054][130]LogAssetEditorManager: Opening Asset editor for Material /Game/VRExpansion/Guns/M_FPGunGrapple.M_FPGunGrapple
+[2019.09.15-23.22.46:060][130]LogMaterial: Display: Missing cached shader map for material M_FPGunGrapple, compiling. 
+[2019.09.15-23.22.46:599][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.15-23.22.46:605][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.15-23.22.46:612][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.15-23.22.46:623][130]LogMaterial: Display: Missing cached shader map for material M_FPGunGrapple, compiling. 
+[2019.09.15-23.22.46:714][130]LogMaterial: Display: Missing cached shader map for material M_FPGunGrapple, compiling. 
+[2019.09.15-23.22.46:827][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.15-23.22.46:833][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.15-23.22.46:840][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.15-23.22.46:935][130]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.15-23.22.47:218][134]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.09.15-23.22.47:907][169]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.09.15-23.22.48:334][187]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.15-23.22.48:585][200]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.09.15-23.22.49:239][232]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.09.15-23.22.50:453][287]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.09.15-23.22.51:350][327]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.09.15-23.22.52:001][356]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.09.15-23.22.52:610][383]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.09.15-23.22.52:829][393]LogSlate: Window 'M_FPGunGrapple' being destroyed
+[2019.09.15-23.22.53:052][396]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.09.15-23.22.54:103][470]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.15-23.22.54:782][515]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.15-23.22.55:424][556]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.15-23.22.56:425][619]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.15-23.23.21:793][462]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.09.15-23.23.21:842][463]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.09.15-23.23.21:919][464]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.09.15-23.23.21:969][465]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.09.15-23.25.09:569][  3]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/VRExpansion/Vive/Vive_PawnCharacter
+[2019.09.15-23.25.09:612][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.09.15-23.25.09:658][  3]LogGameplayTags: Warning: Invalid GameplayTag GripType.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultGripTag.
+[2019.09.15-23.25.09:658][  3]LogGameplayTags: Warning: Invalid GameplayTag DropType.OnTriggerRelease found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultDropTag.
+[2019.09.15-23.25.09:658][  3]LogGameplayTags: Warning: Invalid GameplayTag DropType.Secondary.OnSideGrip found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultSecondaryDropTag.
+[2019.09.15-23.25.09:658][  3]LogGameplayTags: Warning: Invalid GameplayTag GripType.Secondary.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultSecondaryGripTag.
+[2019.09.15-23.25.09:658][  3]LogGameplayTags: Warning: Invalid GameplayTag UseType.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultUseTag.
+[2019.09.15-23.25.09:658][  3]LogGameplayTags: Warning: Invalid GameplayTag UseType.EndUse.OnTriggerRelease found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultEndUseTag.
+[2019.09.15-23.25.11:668][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.09.15-23.30.18:980][365]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.15-23.30.22:720][376]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.15-23.32.18:492][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.09.15-23.32.18:506][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.15-23.32.18:753][ 88]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_Auto11F6DEA1B4085FFD9F0C42CB06FB1F8F9.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto1.umap'
+[2019.09.15-23.32.18:756][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.289
+[2019.09.15-23.32.18:756][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.289
+[2019.09.15-23.32.54:794][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.15-23.32.59:825][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.15-23.33.03:968][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-23.33.04:170][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.15-23.33.04:179][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.15-23.33.04:206][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.09.15-23.33.04:454][665]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/LobbyFC7782AF497D9967284E528792B06B18.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap'
+[2019.09.15-23.33.04:596][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2019.09.15-23.33.04:667][665]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_BuiltData86CA68E14B4F2B94FA710C9D36A4172B.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset'
+[2019.09.15-23.35.08:374][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.15-23.35.09:264][639]LogEditorViewport: Clicking on Actor (LMB): GunBase_C (GunBase)
+[2019.09.15-23.35.11:837][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-23.35.11:912][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.15-23.35.11:933][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2019.09.15-23.35.11:933][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.15-23.35.11:933][939]PIE: New page: PIE session: Lobby (Sep 15, 2019, 9:35:11 AM)
+[2019.09.15-23.35.11:934][939]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.09.15-23.35.11:956][939]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2019.09.15-23.35.11:964][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007577s)
+[2019.09.15-23.35.11:964][939]LogAIModule: Creating AISystem for world Lobby
+[2019.09.15-23.35.11:965][939]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2019.09.15-23.35.11:965][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.008578s)
+[2019.09.15-23.35.11:989][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.09.15-23.35.12:149][939]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.15-23.35.12:187][939]LogInit: FAudioDevice initialized.
+[2019.09.15-23.35.12:231][939]LogLoad: Game class is 'LobbyGM_C'
+[2019.09.15-23.35.12:234][939]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2019.09.15-16.35.12
+[2019.09.15-23.35.12:235][939]LogWorld: Bringing up level for play took: 0.002953
+[2019.09.15-23.35.12:257][939]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.09.15-23.35.12:271][939]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.88
+[2019.09.15-23.35.12:271][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2019.09.15-23.35.15:134][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2019.09.15-23.35.15:135][275]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.09.15-23.35.15:135][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-23.35.15:167][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.15-23.35.15:168][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2019.09.15-23.35.15:196][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.15-23.35.15:201][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.09.15-23.35.15:238][278]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.09.15-23.35.22:345][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-23.36.25:437][378]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/FPS_VivePawnCharacter.FPS_VivePawnCharacter
+[2019.09.15-23.36.25:726][378]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.15-23.36.25:726][378]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.15-23.36.25:726][378]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.15-23.36.25:726][378]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.15-23.36.25:726][378]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.15-23.36.25:726][378]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait'
+[2019.09.15-23.36.25:726][378]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.15-23.36.25:727][378]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.15-23.36.25:727][378]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.15-23.36.25:727][378]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.15-23.36.25:727][378]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.15-23.36.25:727][378]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.15-23.36.25:727][378]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.15-23.36.25:727][378]LogEnum: Warning: Enum name collision: 'ALS_MovementMode::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_MovementMode.ALS_MovementMode'
+[2019.09.15-23.36.25:727][378]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode'
+[2019.09.15-23.36.25:728][378]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode'
+[2019.09.15-23.36.25:728][378]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode'
+[2019.09.15-23.36.25:728][378]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode'
+[2019.09.15-23.36.25:728][378]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance'
+[2019.09.15-23.36.25:728][378]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance'
+[2019.09.15-23.36.25:728][378]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance'
+[2019.09.15-23.36.25:728][378]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance'
+[2019.09.15-23.36.25:729][378]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode'
+[2019.09.15-23.36.25:729][378]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode'
+[2019.09.15-23.36.25:729][378]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode'
+[2019.09.15-23.36.25:729][378]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode'
+[2019.09.15-23.36.25:730][378]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.15-23.36.25:730][378]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.15-23.36.25:730][378]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.15-23.36.25:730][378]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.15-23.36.25:730][378]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.15-23.36.25:730][378]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.15-23.36.25:730][378]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.15-23.36.25:730][378]LogEnum: Warning: Enum name collision: 'CardinalDirection::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/CardinalDirection.CardinalDirection'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator5' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator6' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator7' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator8' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator5' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator6' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator7' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:731][378]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator8' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:732][378]LogEnum: Warning: Enum name collision: 'IdleEntryState::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/IdleEntryState.IdleEntryState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator3' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:733][378]LogEnum: Warning: Enum name collision: 'LocomotionState::NewEnumerator4' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/LocomotionState.LocomotionState'
+[2019.09.15-23.36.25:734][378]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection'
+[2019.09.15-23.36.25:734][378]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection'
+[2019.09.15-23.36.25:734][378]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection'
+[2019.09.15-23.36.25:734][378]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection'
+[2019.09.15-23.36.25:751][378]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.09.15-23.37.06:391][518]LogSlate: Window 'FPS_VivePawnCharacter' being destroyed
+[2019.09.15-23.37.16:156][398]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/SteamVR_GM.SteamVR_GM
+[2019.09.15-23.38.12:738][556]LogSlate: Window 'Create New Blueprint' being destroyed
+[2019.09.15-23.40.19:471][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.15-23.40.21:788][336]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2019.09.15-23.40.35:217][537]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2019.09.15-23.41.19:068][312]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/Steam_VR_Player_Controller.Steam_VR_Player_Controller
+[2019.09.15-23.41.27:210][ 76]LogRenderer: Reallocating scene render targets to support 1212x800 Format 10 NumSamples 1 (Frame:1).
+[2019.09.15-23.42.23:563][715]LogSlate: Took 0.001177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.09.15-23.45.48:033][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:033][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:033][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.15-23.45.48:034][389]LogLinker: Warning: Unable to load Default__VRGameInstance_C with outer Package /Game/VRExpansion/Vive/VRGameInstance because its class does not exist
+[2019.09.15-23.45.48:035][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:035][389]LoadErrors: Failed to load /Script/AdvancedSessions.AdvancedFriendsGameInstance Referenced by VRGameInstance
+[2019.09.15-23.45.48:035][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:035][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:035][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:035][389]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.15-23.45.48:035][389]LogLinker: Warning: Can't find file '/Script/AdvancedSessions'
+[2019.09.15-23.45.48:035][389]LoadErrors: Failed to load /Script/AdvancedSessions.AdvancedFriendsGameInstance Referenced by PackageMetaData
+[2019.09.15-23.45.48:035][389]LogLinker: Warning: Can't find file for asset '/Script/AdvancedSessions' while loading NULL.
+[2019.09.15-23.45.48:035][389]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.15-23.45.48:051][389]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance
+[2019.09.15-23.45.57:538][389]LogSlate: Window 'Message' being destroyed
+[2019.09.15-23.45.57:611][389]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'bIsClient': BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.15-23.45.57:611][389]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'bIsHosting': BlueprintGeneratedClass /Game/VRExpansion/Vive/VRGameInstance.VRGameInstance_C
+[2019.09.15-23.46.00:711][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.09.15-23.46.00:711][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.15-23.46.01:020][670]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_Auto2D31C776B4A995CD60DA4C4B260D86C88.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto2.umap'
+[2019.09.15-23.46.01:022][670]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.363
+[2019.09.15-23.46.01:022][670]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.363
+[2019.09.15-23.46.01:024][670]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/LobbyGM] ([1] browsable assets)...
+[2019.09.15-23.46.01:024][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/LobbyGM]
+[2019.09.15-23.46.01:024][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Blueprints/Lobby/LobbyGM_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.09.15-23.46.01:177][670]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/LobbyGM_Auto29CEC7042485D970D942F1195C9C8714F.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Blueprints/Lobby/LobbyGM_Auto2.uasset'
+[2019.09.15-23.46.01:178][670]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRExpansion/Vive/Steam_VR_Player_Controller] ([1] browsable assets)...
+[2019.09.15-23.46.01:178][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRExpansion/Vive/Steam_VR_Player_Controller]
+[2019.09.15-23.46.01:264][670]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Steam_VR_Player_Controller_Auto2CA09EAF747E82EE0D5585799A0EB4DC1.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/VRExpansion/Vive/Steam_VR_Player_Controller_Auto2.uasset'
+[2019.09.15-23.46.01:265][670]LogFileHelpers: Auto-saving content packages took 0.242
+[2019.09.15-23.46.08:109][293]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/BP_Teleport_Controller.BP_Teleport_Controller
+[2019.09.15-23.46.45:639][400]LogSlate: Window 'BP_Teleport_Controller' being destroyed
+[2019.09.15-23.47.14:418][610]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube
+[2019.09.15-23.47.14:476][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.09.15-23.47.15:124][610]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.09.15-23.47.16:014][703]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube
+[2019.09.15-23.56.01:264][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.09.15-23.56.01:265][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.15-23.56.02:049][138]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_Auto3AF2FAB5145C72C50849BB9837B8B5243.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto3.umap'
+[2019.09.15-23.56.02:051][138]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.829
+[2019.09.15-23.56.02:051][138]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.829
+[2019.09.16-03.12.45:181][749]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-03.13.20:286][303]BlueprintLog: New page: Compile LobbyPC
+[2019.09.16-03.13.20:758][303]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.09.16-03.14.01:143][543]LogEditorTransaction: Undo Move Node
+[2019.09.16-03.14.01:743][590]LogEditorTransaction: Undo Break Pin Links
+[2019.09.16-03.14.40:743][817]BlueprintLog: New page: Compile LobbyPC
+[2019.09.16-03.14.41:217][817]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.09.16-03.14.42:235][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2019.09.16-03.14.42:449][868]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/LobbyPCCDE878374275F9BD5D9D039A9E70EEFE.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2019.09.16-03.14.44:029][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2019.09.16-03.14.44:200][951]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/LobbyGMDE4086514FB6C7DA56E565B272554C43.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2019.09.16-03.20.25:034][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.16-03.20.25:671][743]LogEditorViewport: Clicking on Actor (LMB): GunBase_C (GunBase2)
+[2019.09.16-03.20.28:243][ 32]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2019.09.16-03.20.39:631][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-03.22.31:053][954]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-03.22.31:377][954]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.09.16-03.22.31:933][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/VRExpansionTest/BP_PickupCube.uasset" SILENT=true
+[2019.09.16-03.22.32:035][995]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/BP_PickupCube77C8C4F94A4923CB65757CA8C43A6E51.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/VRExpansionTest/BP_PickupCube.uasset'
+[2019.09.16-03.23.02:330][506]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.09.16-03.23.02:330][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.16-03.23.02:760][506]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_Auto46AB20A634CC98B288622D28A92658BFF.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto4.umap'
+[2019.09.16-03.23.02:771][506]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.494
+[2019.09.16-03.23.02:771][506]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.494
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x21d47e9ff70 [can pipeline])
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: libcurl info message cache 1 (Re-using existing connection! (#83) with host datarouter.ol.epicgames.com)
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.83.181.125) port 443 (#83))
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: libcurl info message cache 3 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: libcurl info message cache 5 (Closing connection 83)
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5854C8F6-47D6-AEE5-D100-95B4E64BC310%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=425b09eb44d67a36a37bfa8bc6e2eee4%7C554510ef1e0b414f9a5b621bd9504d7d%7Cb5e52c52-8cf8-490b-9d2f-6a5079da1523&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: 0000021E13417600: libcurl info message cache 8 (Closing connection 84)
+[2019.09.16-03.30.19:758][816]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5854C8F6-47D6-AEE5-D100-95B4E64BC310%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=425b09eb44d67a36a37bfa8bc6e2eee4%7C554510ef1e0b414f9a5b621bd9504d7d%7Cb5e52c52-8cf8-490b-9d2f-6a5079da1523&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.16-03.41.36:061][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.09.16-03.41.36:062][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.16-03.41.36:415][319]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_Auto5D0B47DFB4399E5FDB9DC19A791082CF8.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto5.umap'
+[2019.09.16-03.41.36:424][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.409
+[2019.09.16-03.41.36:424][319]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.409
+[2019.09.16-03.43.44:057][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-03.44.08:259][756]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter
+[2019.09.16-03.44.44:078][268]LogSlate: Window 'Vive_PawnCharacter' being destroyed
+[2019.09.16-03.45.27:393][149]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-03.45.27:403][149]LogBlueprint: Error: [Compiler BP_PickupCube] This blueprint (self) is not a GripMotionControllerComponent, therefore ' Target ' must have a connection.
+[2019.09.16-03.45.27:404][149]LogBlueprint: Error: [Compiler BP_PickupCube] The current value of the ' World Offset ' pin is invalid: 'World Offset' in action 'Grip Object' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.09.16-03.45.27:719][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.09.16-03.45.27:734][149]LogBlueprint: Warning: [Compiler BP_PickupCube] [5817.85] Compile of BP_PickupCube failed. 2 Fatal Issue(s) 0 Warning(s) [in 341 ms] (/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube)
+[2019.09.16-03.45.54:343][131]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-03.46.06:138][427]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-03.46.06:473][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.09.16-03.46.38:281][902]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-03.46.38:628][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.09.16-03.46.39:160][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/VRExpansionTest/BP_PickupCube.uasset" SILENT=true
+[2019.09.16-03.46.39:257][938]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/BP_PickupCube6EF8528347FD39913923C79AEFAC9680.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/VRExpansionTest/BP_PickupCube.uasset'
+[2019.09.16-03.49.15:094][449]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-03.51.36:465][253]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.09.16-03.51.36:466][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.16-03.51.36:825][253]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_Auto6849B374D4CB671174E3823BE045B8CA1.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto6.umap'
+[2019.09.16-03.51.36:840][253]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.425
+[2019.09.16-03.51.36:840][253]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.425
+[2019.09.16-04.04.42:885][896]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-04.04.58:126][514]LogSlate: Window 'Common interfaces' being destroyed
+[2019.09.16-04.04.59:431][514]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2019.09.16-04.04.59:436][514]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube from StaticMeshActor to GrippableActor...
+[2019.09.16-04.04.59:464][514]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-04.04.59:471][514]LogBlueprint: Warning: [Compiler BP_PickupCube] Could not find a variable named "StaticMeshComponent" in 'BP_PickupCube_C'.
+Make sure 'BP_PickupCube_C' has been compiled for  Get StaticMeshComponent
+[2019.09.16-04.04.59:475][514]LogBlueprint: Error: [Compiler BP_PickupCube] The property associated with  Static Mesh Component  could not be found in '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube_C'
+[2019.09.16-04.04.59:786][514]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2019.09.16-04.04.59:798][514]LogBlueprint: Warning: [Compiler BP_PickupCube] [6989.92] Compile of BP_PickupCube failed. 1 Fatal Issue(s) 1 Warning(s) [in 333 ms] (/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube)
+[2019.09.16-04.05.02:364][815]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-04.05.02:369][815]LogBlueprint: Warning: [Compiler BP_PickupCube] Could not find a variable named "StaticMeshComponent" in 'BP_PickupCube_C'.
+Make sure 'BP_PickupCube_C' has been compiled for  Get StaticMeshComponent
+[2019.09.16-04.05.02:373][815]LogBlueprint: Error: [Compiler BP_PickupCube] The property associated with  Static Mesh Component  could not be found in '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube_C'
+[2019.09.16-04.05.02:653][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.09.16-04.05.02:665][815]LogBlueprint: Warning: [Compiler BP_PickupCube] [6992.78] Compile of BP_PickupCube failed. 1 Fatal Issue(s) 1 Warning(s) [in 301 ms] (/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube)
+[2019.09.16-04.05.16:261][418]LogEditorTransaction: Undo Edit Gripped
+[2019.09.16-04.05.17:317][538]LogEditorTransaction: Undo Edit Gripped
+[2019.09.16-04.05.18:132][632]LogEditorTransaction: Undo Edit Use Physics Settings
+[2019.09.16-04.05.18:726][699]LogEditorTransaction: Undo Delete current selection
+[2019.09.16-04.05.23:144][218]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-04.05.28:429][691]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2019.09.16-04.05.28:433][691]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube from GrippableActor to GrippableStaticMeshActor...
+[2019.09.16-04.05.28:454][691]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-04.05.28:462][691]LogBlueprint: Error: [Compiler BP_PickupCube] This blueprint (self) is not a GripMotionControllerComponent, therefore ' Target ' must have a connection.
+[2019.09.16-04.05.28:463][691]LogBlueprint: Error: [Compiler BP_PickupCube] The current value of the ' World Offset ' pin is invalid: 'World Offset' in action 'Grip Object' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.09.16-04.05.28:762][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.09.16-04.05.28:771][691]LogBlueprint: Warning: [Compiler BP_PickupCube] [7018.89] Compile of BP_PickupCube failed. 2 Fatal Issue(s) 0 Warning(s) [in 317 ms] (/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube)
+[2019.09.16-04.05.30:419][879]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-04.05.30:426][879]LogBlueprint: Error: [Compiler BP_PickupCube] This blueprint (self) is not a GripMotionControllerComponent, therefore ' Target ' must have a connection.
+[2019.09.16-04.05.30:427][879]LogBlueprint: Error: [Compiler BP_PickupCube] The current value of the ' World Offset ' pin is invalid: 'World Offset' in action 'Grip Object' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.09.16-04.05.30:731][879]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.09.16-04.05.30:744][879]LogBlueprint: Warning: [Compiler BP_PickupCube] [7020.86] Compile of BP_PickupCube failed. 2 Fatal Issue(s) 0 Warning(s) [in 325 ms] (/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube)
+[2019.09.16-04.05.36:725][492]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.09.16-04.05.37:699][526]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-04.05.37:708][526]LogBlueprint: Error: [Compiler BP_PickupCube] This blueprint (self) is not a GripMotionControllerComponent, therefore ' Target ' must have a connection.
+[2019.09.16-04.05.37:709][526]LogBlueprint: Error: [Compiler BP_PickupCube] The current value of the ' World Offset ' pin is invalid: 'World Offset' in action 'Grip Object' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.09.16-04.05.38:170][526]LogUObjectHash: Compacting FUObjectHashTables data took  10.53ms
+[2019.09.16-04.05.38:187][526]LogBlueprint: Warning: [Compiler BP_PickupCube] [7028.31] Compile of BP_PickupCube failed. 2 Fatal Issue(s) 0 Warning(s) [in 487 ms] (/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube)
+[2019.09.16-04.05.46:918][521]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-04.05.47:309][521]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2019.09.16-04.05.52:941][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.16-04.05.53:403][211]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2019.09.16-04.06.18:538][936]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-04.06.18:616][936]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.09.16-04.06.18:628][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.16-04.06.19:006][936]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_Auto711231B1B4DF259A1FC0423B46670E1C9.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto7.umap'
+[2019.09.16-04.06.19:013][936]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.446
+[2019.09.16-04.06.19:013][936]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.446
+[2019.09.16-04.06.19:015][936]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube] ([1] browsable assets)...
+[2019.09.16-04.06.19:027][936]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube]
+[2019.09.16-04.06.19:027][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube]
+[2019.09.16-04.06.19:121][936]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/BP_PickupCube_Auto7A59BA5654EBA376494A58C9B938BAB0F.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube_Auto7.uasset'
+[2019.09.16-04.06.19:121][936]LogFileHelpers: Auto-saving content packages took 0.107
+[2019.09.16-04.06.48:951][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.16-04.06.49:630][293]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2019.09.16-04.08.09:460][737]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2019.09.16-04.08.10:055][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.16-04.08.11:764][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.08.11:985][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-04.08.12:034][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.09.16-04.08.12:449][982]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/LobbyE8B314EF4DEE78395B837B9A79FC3C75.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap'
+[2019.09.16-04.08.12:616][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2019.09.16-04.08.12:681][982]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_BuiltData09A3937240B2FC5DB728598EC5D7A67D.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset'
+[2019.09.16-04.08.13:832][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.09.16-04.08.15:271][ 59]LogSlate: Window 'Save Content' being destroyed
+[2019.09.16-04.08.15:530][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/VRExpansionTest/BP_PickupCube.uasset" SILENT=true
+[2019.09.16-04.08.15:635][ 59]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/BP_PickupCube8B69942E4E4E0559F6F8AF81FF1DD945.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/VRExpansionTest/BP_PickupCube.uasset'
+[2019.09.16-04.08.15:640][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Steam_VR_Player_Controller" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Steam_VR_Player_Controller.uasset" SILENT=true
+[2019.09.16-04.08.15:754][ 59]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Steam_VR_Player_Controller8FB35E3745272AD355713C97947203D6.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Steam_VR_Player_Controller.uasset'
+[2019.09.16-04.08.16:557][121]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2019.09.16-04.08.23:025][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.09.09:750][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.09.16-04.09.11:021][166]LogSlate: Window 'Save Content' being destroyed
+[2019.09.16-04.09.11:153][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-04.09.11:196][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.09.16-04.09.11:598][166]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby611CF5BE415641D5305E25BB21ED7413.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap'
+[2019.09.16-04.09.11:640][166]LogFileHelpers: Saving map 'Lobby' took 0.487
+[2019.09.16-04.10.34:903][217]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-04.11.44:839][307]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2019.09.16-04.11.44:845][307]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube from GrippableStaticMeshActor to GrippableActor...
+[2019.09.16-04.11.44:869][307]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-04.11.44:876][307]LogBlueprint: Warning: [Compiler BP_PickupCube] Could not find a variable named "StaticMeshComponent" in 'BP_PickupCube_C'.
+Make sure 'BP_PickupCube_C' has been compiled for  Get StaticMeshComponent
+[2019.09.16-04.11.44:881][307]LogBlueprint: Error: [Compiler BP_PickupCube] The property associated with  Static Mesh Component  could not be found in '/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube_C'
+[2019.09.16-04.11.45:266][307]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2019.09.16-04.11.45:274][307]LogBlueprint: Warning: [Compiler BP_PickupCube] [7395.39] Compile of BP_PickupCube failed. 1 Fatal Issue(s) 1 Warning(s) [in 405 ms] (/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube)
+[2019.09.16-04.11.52:617][163]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-04.11.59:608][834]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2019.09.16-04.11.59:614][834]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube.BP_PickupCube from GrippableActor to GrippableStaticMeshActor...
+[2019.09.16-04.11.59:636][834]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-04.12.00:020][834]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.09.16-04.12.01:365][986]BlueprintLog: New page: Compile BP_PickupCube
+[2019.09.16-04.12.01:750][986]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.09.16-04.12.02:379][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/VRExpansionTest/BP_PickupCube" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/VRExpansionTest/BP_PickupCube.uasset" SILENT=true
+[2019.09.16-04.12.02:476][ 42]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/BP_PickupCube36CF6B3F4F315CBAC20400BCB5FA4907.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VirtualRealityBP/VRExpansionTest/BP_PickupCube.uasset'
+[2019.09.16-04.13.32:780][387]Cmd: ACTOR CREATE_BV_BOUNDINGBOX SnapToGrid=1
+[2019.09.16-04.13.32:782][387]Cmd: BRUSH ADDVOLUME CLASS=BlockingVolume
+[2019.09.16-04.19.26:588][764]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.09.16-04.19.26:589][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.16-04.19.26:960][764]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_Auto8F7EBD96C4C458273FDCE5A9321DDD0F2.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Autosaves/Game/Maps/Lobby_Auto8.umap'
+[2019.09.16-04.19.26:962][764]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.424
+[2019.09.16-04.19.26:962][764]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.424
+[2019.09.16-04.19.44:509][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.20.12:649][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-04.20.12:701][625]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2019.09.16-04.20.13:184][625]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/LobbyF1A9A53C47AFE83CCB4CC6A4CEAF3DDB.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap'
+[2019.09.16-04.20.13:364][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2019.09.16-04.20.13:446][625]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_BuiltData0D21F8B544D663D08E2AAB9C0442EC80.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset'
+[2019.09.16-04.22.23:597][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-04.22.23:647][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.09.16-04.22.24:037][169]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby5264B0E8451C8245114D43BF35B140F8.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap'
+[2019.09.16-04.22.24:195][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2019.09.16-04.22.24:239][169]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_BuiltData5DE59674481A59F1A18E0DAD1E016E0D.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset'
+[2019.09.16-04.26.34:932][979]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-04.27.22:510][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-04.27.22:565][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.09.16-04.27.22:962][324]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby22CAC8794A133D0A68E8B680141A984D.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap'
+[2019.09.16-04.27.23:121][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2019.09.16-04.27.23:186][324]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Lobby_BuiltData8A00678246FFFE9A03E178912849DA1A.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby_BuiltData.uasset'
+[2019.09.16-04.28.12:940][435]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.16-04.31.29:147][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.16-04.31.30:148][476]LogEditorViewport: Clicking on Actor (LMB): GunBase_C (GunBase)
+[2019.09.16-04.31.34:486][924]LogEditorViewport: Clicking on Actor (LMB): GunBase_C (GunBase2)
+[2019.09.16-04.31.39:858][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-04.31.39:972][476]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Guns/GunBase.GunBase
+[2019.09.16-04.31.40:704][476]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.16-04.31.41:568][476]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.864 s
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: 
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\GameplayTags\Private\GameplayTagsManager.cpp] [Line: 1519]
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: Requested Tag Weapon.Gun.HeldAtGrip was not found. Check tag data table.
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: Stack: 
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff875ac4f64 UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff875aa6001 UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff875aa5bbb UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec5b3a0 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec2de7f UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff82416481d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec00ae0 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec0f4e3 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418505b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241855f4 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418a0eb UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241867c3 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff8242795bd UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:568][476]LogOutputDevice: Error: [Callstack] 0x00007ff8242875d7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff824161aa2 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418428d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff824138d61 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff82426f50b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff82426c428 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241a60ef UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af10ac1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af53b3a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e49c9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:569][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:570][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af550fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff83efdd714 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f0068d2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff83efde2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f02a859 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f029a4d UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff661ef7a6a UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f0554c UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f055ca UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f1316c UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f15b8e UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff88d994034 KERNEL32.DLL!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: [Callstack] 0x00007ff88dc43691 ntdll.dll!UnknownFunction []
+[2019.09.16-04.31.41:571][476]LogOutputDevice: Error: 
+[2019.09.16-04.31.41:573][476]LogStats:                SubmitErrorReport -  0.000 s
+[2019.09.16-04.31.42:487][476]LogStats:                    SendNewReport -  0.914 s
+[2019.09.16-04.31.42:487][476]LogStats:             FDebug::EnsureFailed -  1.784 s
+[2019.09.16-04.31.42:491][476]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.16-04.31.42:494][476]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.003 s
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: 
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\GameplayTags\Private\GameplayTagsManager.cpp] [Line: 1519]
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: Requested Tag Weapon.Gun.HeldFreely was not found. Check tag data table.
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: Stack: 
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: [Callstack] 0x00007ff875ac4f64 UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: [Callstack] 0x00007ff875aa6001 UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: [Callstack] 0x00007ff875aa5bbb UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec5b3a0 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:494][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec2de7f UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff82416481d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec00ae0 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec0f4e3 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418505b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241855f4 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418a0eb UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241867c3 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff8242795bd UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff8242875d7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff824161aa2 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418428d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff824138d61 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff82426f50b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff82426c428 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241a60ef UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af10ac1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af53b3a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e49c9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:495][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:496][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af550fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff83efdd714 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f0068d2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff83efde2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f02a859 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f029a4d UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff661ef7a6a UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f0554c UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f055ca UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f1316c UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.42:497][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f15b8e UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.42:498][476]LogOutputDevice: Error: [Callstack] 0x00007ff88d994034 KERNEL32.DLL!UnknownFunction []
+[2019.09.16-04.31.42:498][476]LogOutputDevice: Error: [Callstack] 0x00007ff88dc43691 ntdll.dll!UnknownFunction []
+[2019.09.16-04.31.42:498][476]LogOutputDevice: Error: 
+[2019.09.16-04.31.42:499][476]LogStats:                SubmitErrorReport -  0.000 s
+[2019.09.16-04.31.43:481][476]LogStats:                    SendNewReport -  0.983 s
+[2019.09.16-04.31.43:481][476]LogStats:             FDebug::EnsureFailed -  0.990 s
+[2019.09.16-04.31.43:483][476]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.16-04.31.43:486][476]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.003 s
+[2019.09.16-04.31.43:486][476]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.16-04.31.43:486][476]LogOutputDevice: Error: 
+[2019.09.16-04.31.43:486][476]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\GameplayTags\Private\GameplayTagsManager.cpp] [Line: 1519]
+[2019.09.16-04.31.43:486][476]LogOutputDevice: Error: Requested Tag DropType.OnSideGrip was not found. Check tag data table.
+[2019.09.16-04.31.43:486][476]LogOutputDevice: Error: Stack: 
+[2019.09.16-04.31.43:486][476]LogOutputDevice: Error: [Callstack] 0x00007ff875ac4f64 UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.43:486][476]LogOutputDevice: Error: [Callstack] 0x00007ff875aa6001 UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.43:486][476]LogOutputDevice: Error: [Callstack] 0x00007ff875aa5bbb UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec5b3a0 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec2de7f UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82416481d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec00ae0 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec0f4e3 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418505b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241855f4 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418a0eb UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241867c3 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8242795bd UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8242875d7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff824161aa2 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418428d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff824138d61 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82426f50b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82426c428 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241a60ef UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af10ac1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af53b3a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e49c9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af550fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83efdd714 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f0068d2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83efde2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f02a859 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f029a4d UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff661ef7a6a UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f0554c UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f055ca UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f1316c UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f15b8e UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff88d994034 KERNEL32.DLL!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff88dc43691 ntdll.dll!UnknownFunction []
+[2019.09.16-04.31.43:489][476]LogOutputDevice: Error: 
+[2019.09.16-04.31.43:492][476]LogStats:                SubmitErrorReport -  0.000 s
+[2019.09.16-04.31.44:481][476]LogStats:                    SendNewReport -  0.989 s
+[2019.09.16-04.31.44:481][476]LogStats:             FDebug::EnsureFailed -  0.998 s
+[2019.09.16-04.31.44:483][476]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.16-04.31.44:486][476]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.003 s
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: 
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\GameplayTags\Private\GameplayTagsManager.cpp] [Line: 1519]
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: Requested Tag DropType.OnTriggerRelease was not found. Check tag data table.
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: Stack: 
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: [Callstack] 0x00007ff875ac4f64 UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: [Callstack] 0x00007ff875aa6001 UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: [Callstack] 0x00007ff875aa5bbb UE4Editor-GameplayTags.dll!UnknownFunction []
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec5b3a0 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec2de7f UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: [Callstack] 0x00007ff82416481d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec00ae0 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: [Callstack] 0x00007ffffec0f4e3 UE4Editor-GameplayTagsEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:486][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418505b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241855f4 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418a0eb UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241867c3 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8242795bd UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8242875d7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff824161aa2 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82418428d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff824138d61 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82426f50b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff82426c428 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff8241a60ef UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af10ac1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af53b3a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e49c9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:487][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:488][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f1e9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af54bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af526d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af52571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af51c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af5419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff84af550fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83efdd714 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f0068d2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83efde2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f02a859 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff83f029a4d UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.16-04.31.44:489][476]LogOutputDevice: Error: [Callstack] 0x00007ff661ef7a6a UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.44:490][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f0554c UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.44:490][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f055ca UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.44:490][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f1316c UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.44:490][476]LogOutputDevice: Error: [Callstack] 0x00007ff661f15b8e UE4Editor.exe!UnknownFunction []
+[2019.09.16-04.31.44:490][476]LogOutputDevice: Error: [Callstack] 0x00007ff88d994034 KERNEL32.DLL!UnknownFunction []
+[2019.09.16-04.31.44:490][476]LogOutputDevice: Error: [Callstack] 0x00007ff88dc43691 ntdll.dll!UnknownFunction []
+[2019.09.16-04.31.44:490][476]LogOutputDevice: Error: 
+[2019.09.16-04.31.44:490][476]LogStats:                SubmitErrorReport -  0.000 s

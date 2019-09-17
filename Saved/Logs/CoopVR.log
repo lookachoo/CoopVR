@@ -1,4 +1,4 @@
-﻿Log file open, 09/13/19 01:00:13
+﻿Log file open, 09/16/19 22:15:46
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: CoopVR
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.318733
+LogStats: Stats thread started at 0.600642
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -176,479 +176,674 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
-[2019.09.13-08.00.14:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.09.13-08.00.14:064][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.09.13-08.00.14:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
-[2019.09.13-08.00.14:065][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
-[2019.09.13-08.00.14:071][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.09.13-08.00.14:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.09.13-08.00.14:072][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.09.13-08.00.14:072][  0]LogInit: Selected Device Profile: [Windows]
-[2019.09.13-08.00.14:072][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.09.13-08.00.14:080][  0]LogHAL: Display: Platform has ~ 16 GB [17124184064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2019.09.13-08.00.14:080][  0]LogInit: Going up to parent DeviceProfile []
-[2019.09.13-08.00.14:080][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.09.13-08.00.14:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.09.13-08.00.14:081][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.09.13-08.00.14:082][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.09.13-08.00.14:082][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2019.09.13-08.00.14:082][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
-[2019.09.13-08.00.14:082][  0]LogInit: Computer: DESKTOP-21FRT5R
-[2019.09.13-08.00.14:082][  0]LogInit: User: broki
-[2019.09.13-08.00.14:082][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.09.13-08.00.14:082][  0]LogInit: High frequency timer resolution =3.417992 MHz
-[2019.09.13-08.00.14:082][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2019.09.13-08.00.14:082][  0]LogMemory: Platform Memory Stats for Windows
-[2019.09.13-08.00.14:082][  0]LogMemory: Process Physical Memory: 99.47 MB used, 99.47 MB peak
-[2019.09.13-08.00.14:082][  0]LogMemory: Process Virtual Memory: 102.75 MB used, 102.75 MB peak
-[2019.09.13-08.00.14:082][  0]LogMemory: Physical Memory: 6546.66 MB used,  9784.23 MB free, 16330.89 MB total
-[2019.09.13-08.00.14:082][  0]LogMemory: Virtual Memory: 4655.28 MB used,  134213072.00 MB free, 134217728.00 MB total
-[2019.09.13-08.00.14:118][  0]LogInit: Using OS detected language (en-US).
-[2019.09.13-08.00.14:118][  0]LogInit: Using OS detected locale (en-US).
-[2019.09.13-08.00.14:120][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.09.13-08.00.14:301][  0]LogInit: Setting process to per monitor DPI aware
-[2019.09.13-08.00.14:357][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.09.13-08.00.14:357][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.09.13-08.00.14:682][  0]LogD3D11RHI: D3D11 adapters:
-[2019.09.13-08.00.14:763][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
-[2019.09.13-08.00.14:763][  0]LogD3D11RHI:       8031/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2019.09.13-08.00.14:765][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.09.13-08.00.14:766][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.09.13-08.00.14:766][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.09.13-08.00.14:777][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.09.13-08.00.14:777][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
-[2019.09.13-08.00.14:777][  0]LogWindows: EnumDisplayDevices:
-[2019.09.13-08.00.14:777][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
-[2019.09.13-08.00.14:777][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
-[2019.09.13-08.00.14:778][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
-[2019.09.13-08.00.14:778][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
-[2019.09.13-08.00.14:779][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2019.09.13-08.00.14:779][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
-[2019.09.13-08.00.14:779][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
-[2019.09.13-08.00.14:779][  0]LogD3D11RHI:      Driver Date: 7-3-2019
-[2019.09.13-08.00.14:779][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
-[2019.09.13-08.00.14:836][  0]LogD3D11RHI: Async texture creation enabled
-[2019.09.13-08.00.14:858][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.09.13-08.00.14:859][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.09.13-08.00.14:859][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.09.13-08.00.14:866][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2019.09.13-08.00.15:290][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2019.09.13-08.00.15:308][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2019.09.13-08.00.15:325][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2019.09.13-08.00.15:343][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2019.09.13-08.00.15:360][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2019.09.13-08.00.15:377][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2019.09.13-08.00.15:396][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2019.09.13-08.00.15:413][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2019.09.13-08.00.15:423][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2019.09.13-08.00.15:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2019.09.13-08.00.15:508][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2019.09.13-08.00.15:561][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2019.09.13-08.00.15:561][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2019.09.13-08.00.15:588][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2019.09.13-08.00.15:588][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2019.09.13-08.00.15:602][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2019.09.13-08.00.15:616][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2019.09.13-08.00.15:631][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2019.09.13-08.00.15:645][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2019.09.13-08.00.15:695][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2019.09.13-08.00.15:695][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2019.09.13-08.00.15:696][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.09.13-08.00.15:711][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2019.09.13-08.00.15:798][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (G:/Epic Games/UnrealProjects/CoopVR/Intermediate/Shaders/WorkingDirectory/7880/).
-[2019.09.13-08.00.15:799][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/broki/AppData/Local/Temp/UnrealShaderWorkingDir/43A99745427D74D03CC2AEA274444612/'.
-[2019.09.13-08.00.15:803][  0]LogXGEController: Cleaning working directory: C:/Users/broki/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2019.09.13-08.00.15:803][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.09.13-08.00.15:803][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.09.13-08.00.15:803][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.09.13-08.00.16:373][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.09.13-08.00.16:441][  0]LogDerivedDataCache: Loaded boot cache 0.07s 72MB C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.09.13-08.00.16:441][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2019.09.13-08.00.16:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Epic Games/UnrealProjects/CoopVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.09.13-08.00.16:441][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.09.13-08.00.16:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Epic Games/UnrealProjects/CoopVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.09.13-08.00.16:442][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.09.13-08.00.16:453][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.09.13-08.00.16:456][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
-[2019.09.13-08.00.16:469][  0]LogDerivedDataCache: Using Local data cache path C:/Users/broki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.09.13-08.00.16:469][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.09.13-08.00.16:469][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.09.13-08.00.16:494][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.09.13-08.00.16:495][  0]LogSlate: Using FreeType 2.6.0
-[2019.09.13-08.00.16:496][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.09.13-08.00.16:597][  0]LogAssetRegistry: FAssetRegistry took 0.0337 seconds to start up
-[2019.09.13-08.00.16:981][  0]LogInit: Selected Device Profile: [Windows]
-[2019.09.13-08.00.17:136][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.09.13-08.00.17:136][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2019.09.13-08.00.17:136][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.09.13-08.00.17:136][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2019.09.13-08.00.17:136][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2019.09.13-08.00.17:151][  0]LogNetVersion: CoopVR 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1173904992)
-[2019.09.13-08.00.17:573][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.046468 seconds
-[2019.09.13-08.00.17:579][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
-[2019.09.13-08.00.17:579][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
-[2019.09.13-08.00.17:579][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.09.13-08.00.18:674][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.09.13-08.00.18:688][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.09.13-08.00.18:812][  0]SourceControl: Source control is disabled
-[2019.09.13-08.00.19:651][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.09.13-08.00.20:314][  0]LogOcInput: OculusInput pre-init called
-[2019.09.13-08.00.23:473][  0]LogEngine: Initializing Engine...
-[2019.09.13-08.00.23:474][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-4883A031
-[2019.09.13-08.00.23:475][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2019.09.13-08.00.23:689][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.09.13-08.00.23:713][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.09.13-08.00.23:910][  0]LogInit: XAudio2 using 'Speakers (8- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2019.09.13-08.00.23:939][  0]LogInit: FAudioDevice initialized.
-[2019.09.13-08.00.23:939][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.09.13-08.00.24:054][  0]LogDerivedDataCache: Saved boot cache 0.11s 72MB C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.09.13-08.00.24:077][  0]LogInit: Texture streaming: Enabled
-[2019.09.13-08.00.24:113][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.09.13-08.00.24:149][  0]LogInit: Transaction tracking system initialized
-[2019.09.13-08.00.24:197][  0]BlueprintLog: New page: Editor Load
-[2019.09.13-08.00.24:352][  0]LocalizationService: Localization service is disabled
-[2019.09.13-08.00.24:696][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.09.13-08.00.24:696][  0]LogCook: Display: Mobile HDR setting 1
-[2019.09.13-08.00.24:775][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/' took 0.04s
-[2019.09.13-08.00.26:627][  0]Cmd: MAP LOAD FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.09.13-08.00.26:628][  0]LightingResults: New page: Lighting Build
-[2019.09.13-08.00.26:633][  0]MapCheck: New page: Map Check
-[2019.09.13-08.00.26:633][  0]LightingResults: New page: Lighting Build
-[2019.09.13-08.00.26:657][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
-[2019.09.13-08.00.26:865][  0]LogGameplayTags: Warning: Invalid GameplayTag GripType.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultGripTag.
-[2019.09.13-08.00.26:865][  0]LogGameplayTags: Warning: Invalid GameplayTag DropType.OnTriggerRelease found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultDropTag.
-[2019.09.13-08.00.26:865][  0]LogGameplayTags: Warning: Invalid GameplayTag DropType.Secondary.OnSideGrip found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultSecondaryDropTag.
-[2019.09.13-08.00.26:865][  0]LogGameplayTags: Warning: Invalid GameplayTag GripType.Secondary.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultSecondaryGripTag.
-[2019.09.13-08.00.26:865][  0]LogGameplayTags: Warning: Invalid GameplayTag UseType.OnTrigger found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultUseTag.
-[2019.09.13-08.00.26:865][  0]LogGameplayTags: Warning: Invalid GameplayTag UseType.EndUse.OnTriggerRelease found while loading property /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter_C:DefaultEndUseTag.
-[2019.09.13-08.00.27:020][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/AllLevels/PlayerSaveGame.PlayerSaveGame_C:S_PlayerInfo'. Unknown structure.
-[2019.09.13-08.00.27:020][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/AllLevels/PlayerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2019.09.13-08.00.27:029][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:PlayerInfo'. Unknown structure.
-[2019.09.13-08.00.27:046][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/UI/MainMenu/OptionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2019.09.13-08.00.27:506][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2019.09.13-08.00.27:507][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2019.09.13-08.00.27:626][  0]LogAIModule: Creating AISystem for world MainMenu
-[2019.09.13-08.00.27:627][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.09.13-08.00.27:662][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
-[2019.09.13-08.00.27:662][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.09.13-08.00.27:662][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
-[2019.09.13-08.00.27:662][  0]LogFileHelpers: Loading map 'MainMenu' took 1.035
-[2019.09.13-08.00.27:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.13-08.00.27:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.13-08.00.27:842][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.13-08.00.27:853][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.13-08.00.27:868][  0]LogCollectionManager: Loaded 0 collections in 0.004870 seconds
-[2019.09.13-08.00.27:888][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Collections/' took 0.01s
-[2019.09.13-08.00.27:888][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/Developers/broki/Collections/' took 0.00s
-[2019.09.13-08.00.27:888][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/Collections/' took 0.00s
-[2019.09.13-08.00.27:888][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2019.09.13-08.00.27:899][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2922 classes and 741 folders.
-[2019.09.13-08.00.27:912][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.09.13-08.00.27:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:932][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.27:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.13-08.00.28:043][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.09.13-08.00.28:053][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 0 folders.
-[2019.09.13-08.00.28:182][  0]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.09.13-08.00.28:184][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.09.13-08.00.28:194][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.09.13-08.00.28:300][  0]LogRenderer: Reallocating scene render targets to support 1212x660 Format 10 NumSamples 1 (Frame:1).
-[2019.09.13-08.00.28:443][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.09.13-08.00.28:443][  0]LogLoad: (Engine Initialization) Total time: 17.99 seconds
-[2019.09.13-08.00.28:443][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.09.13-08.00.28:454][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2019.09.13-08.00.28:518][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.09.13-08.00.28:562][  1]LogAssetRegistry: Asset discovery search completed in 11.9869 seconds
-[2019.09.13-08.00.28:564][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2019.09.13-08.00.28:564][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
-[2019.09.13-08.00.29:480][105]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.09.13-08.00.44:676][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.13-08.00.44:773][929]LogSlate: Window 'Message Log' being destroyed
-[2019.09.13-08.00.44:781][929]LogSlate: Window 'Message Log' being destroyed
-[2019.09.13-08.00.45:728][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.13-08.00.46:893][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.13-08.00.49:754][514]LogSlate: Window 'Source Control Login' being destroyed
-[2019.09.13-08.00.52:129][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.13-08.00.53:278][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.13-08.00.54:685][ 73]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
-[2019.09.13-08.00.55:026][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.13-08.01.11:869][ 73]LogSlate: Window 'Submit Files' being destroyed
-[2019.09.13-08.01.11:880][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.13-08.01.12:937][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.13-08.01.14:062][ 73]SourceControl: Error: fatal: Unable to create 'G:/Epic Games/UnrealProjects/CoopVR/.git/index.lock': File exists.
-[2019.09.13-08.01.14:062][ 73]SourceControl: Error: Another git process seems to be running in this repository, e.g.
-[2019.09.13-08.01.14:062][ 73]SourceControl: Error: an editor opened by 'git commit'. Please make sure all processes
-[2019.09.13-08.01.14:062][ 73]SourceControl: Error: are terminated then try again. If it still fails, a git process
-[2019.09.13-08.01.14:062][ 73]SourceControl: Error: may have crashed in this repository earlier:
-[2019.09.13-08.01.14:062][ 73]SourceControl: Error: remove the file manually to continue.
-[2019.09.13-08.01.16:237][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.13-08.02.06:623][521]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
-[2019.09.13-08.02.18:256][521]LogSlate: Window 'Submit Files' being destroyed
-[2019.09.13-08.02.20:510][521]LogSourceControl: commit successful: [develop 63aa1ea] VR Plugin assets
-[2019.09.13-08.02.21:584][521]SourceControl: [develop 63aa1ea] VR Plugin assets
-[2019.09.13-08.02.21:584][521]SourceControl:  33 files changed, 0 insertions(+), 0 deletions(-)
-[2019.09.13-08.02.21:584][521]SourceControl:  delete mode 100644 Content/VRExpansion/Blueprints/VRCharacter.uasset
-[2019.09.13-08.02.21:584][521]SourceControl:  delete mode 100644 Content/VRExpansion/DrawerBase/DrawerBaseActor.uasset
-[2019.09.13-08.02.21:584][521]SourceControl:  delete mode 100644 Content/VRExpansion/DrawerBase/temp_desk.uasset
-[2019.09.13-08.02.21:584][521]SourceControl:  delete mode 100644 Content/VRExpansion/DrawerBase/temp_desk_drawer1.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/DrawerBase/temp_desk_drawer2.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Door/DoorActor.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Door/door1_aldoor.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Door/door1_door.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Door/door1_doorhendle.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Door/glas.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Door/hendle.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Door/wood.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Door/wood2.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/Door/woodteak.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/M_FPGun.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/SK_FPGun.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPerson/SliderMenu/ConsoleCommandSliderActor.uasset
-[2019.09.13-08.02.21:585][521]SourceControl:  delete mode 100644 Content/VRExpansion/FirstPersonBP/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
-[2019.09.13-08.02.21:593][521]SourceControl: Commited [develop 63aa1ea] VR Plugin assets.
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.17-05.15.47:274][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.17-05.15.47:274][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.17-05.15.47:275][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.17-05.15.47:275][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.17-05.15.47:275][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.17-05.15.47:275][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.17-05.15.47:275][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.17-05.15.47:275][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.17-05.15.47:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.17-05.15.47:275][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.17-05.15.47:284][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.17-05.15.47:284][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.17-05.15.47:285][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.17-05.15.47:286][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.17-05.15.47:286][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.17-05.15.47:313][  0]LogHAL: Display: Platform has ~ 16 GB [17124184064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.17-05.15.47:314][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.17-05.15.47:314][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.17-05.15.47:315][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.17-05.15.47:315][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.17-05.15.47:316][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.17-05.15.47:317][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.17-05.15.47:317][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.17-05.15.47:317][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Epic Games/UnrealProjects/CoopVR/Saved/Config/Windows/Engine.ini]
+[2019.09.17-05.15.47:317][  0]LogInit: Computer: DESKTOP-21FRT5R
+[2019.09.17-05.15.47:317][  0]LogInit: User: broki
+[2019.09.17-05.15.47:317][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.17-05.15.47:317][  0]LogInit: High frequency timer resolution =3.417993 MHz
+[2019.09.17-05.15.47:318][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.17-05.15.47:318][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.17-05.15.47:318][  0]LogMemory: Process Physical Memory: 100.13 MB used, 100.13 MB peak
+[2019.09.17-05.15.47:318][  0]LogMemory: Process Virtual Memory: 103.02 MB used, 103.02 MB peak
+[2019.09.17-05.15.47:318][  0]LogMemory: Physical Memory: 7694.80 MB used,  8636.10 MB free, 16330.89 MB total
+[2019.09.17-05.15.47:318][  0]LogMemory: Virtual Memory: 4655.28 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.09.17-05.15.47:529][  0]LogInit: Using OS detected language (en-US).
+[2019.09.17-05.15.47:529][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.17-05.15.47:533][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.17-05.15.47:775][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.17-05.15.47:854][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.17-05.15.47:854][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.17-05.15.48:304][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.09.17-05.15.48:304][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.17-05.15.48:647][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2019.09.17-05.15.48:647][  0]LogD3D11RHI:       8031/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.17-05.15.48:649][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.17-05.15.48:650][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.17-05.15.48:650][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.17-05.15.48:659][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.17-05.15.48:659][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.17-05.15.48:659][  0]LogWindows: EnumDisplayDevices:
+[2019.09.17-05.15.48:659][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2019.09.17-05.15.48:660][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2019.09.17-05.15.48:660][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.09.17-05.15.48:661][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.09.17-05.15.48:661][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.17-05.15.48:661][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2019.09.17-05.15.48:661][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2019.09.17-05.15.48:661][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2019.09.17-05.15.48:661][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2019.09.17-05.15.48:733][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.17-05.15.48:758][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.17-05.15.48:761][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.17-05.15.48:761][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.17-05.15.48:771][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.17-05.15.49:259][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.17-05.15.49:279][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.17-05.15.49:299][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.17-05.15.49:319][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.17-05.15.49:341][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.17-05.15.49:362][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.17-05.15.49:383][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.17-05.15.49:403][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.17-05.15.49:416][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.17-05.15.49:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.17-05.15.49:512][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.17-05.15.49:598][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.17-05.15.49:598][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.17-05.15.49:627][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.17-05.15.49:627][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.17-05.15.49:645][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.17-05.15.49:662][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.17-05.15.49:684][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.17-05.15.49:703][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.17-05.15.49:754][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.17-05.15.49:754][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.17-05.15.49:754][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.17-05.15.49:802][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.17-05.15.50:056][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (G:/Epic Games/UnrealProjects/CoopVR/Intermediate/Shaders/WorkingDirectory/13388/).
+[2019.09.17-05.15.50:056][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/broki/AppData/Local/Temp/UnrealShaderWorkingDir/30D7710C438669388CB1BEA06D245C22/'.
+[2019.09.17-05.15.50:061][  0]LogXGEController: Cleaning working directory: C:/Users/broki/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.17-05.15.50:062][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.17-05.15.50:062][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.17-05.15.50:062][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.17-05.15.50:915][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.17-05.15.51:258][  0]LogDerivedDataCache: Loaded boot cache 0.34s 72MB C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.17-05.15.51:258][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.17-05.15.51:258][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Epic Games/UnrealProjects/CoopVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.17-05.15.51:258][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.17-05.15.51:258][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Epic Games/UnrealProjects/CoopVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.17-05.15.51:259][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.17-05.15.51:274][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.17-05.15.51:279][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.09.17-05.15.51:291][  0]LogDerivedDataCache: Using Local data cache path C:/Users/broki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.17-05.15.51:291][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.17-05.15.51:291][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.17-05.15.51:325][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.17-05.15.51:331][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.17-05.15.51:333][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.17-05.15.51:552][  0]LogAssetRegistry: FAssetRegistry took 0.0363 seconds to start up
+[2019.09.17-05.15.52:061][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.17-05.15.52:237][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.17-05.15.52:237][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.17-05.15.52:237][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.17-05.15.52:237][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.17-05.15.52:237][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.17-05.15.52:356][  0]LogNetVersion: CoopVR 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1173904992)
+[2019.09.17-05.15.53:117][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.070706 seconds
+[2019.09.17-05.15.53:128][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
+[2019.09.17-05.15.53:128][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
+[2019.09.17-05.15.53:128][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.17-05.15.55:113][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.17-05.15.55:131][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.17-05.15.55:344][  0]SourceControl: Source control is disabled
+[2019.09.17-05.15.57:155][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.17-05.15.57:540][  0]LogOcInput: OculusInput pre-init called
+[2019.09.17-05.16.01:843][  0]LogEngine: Initializing Engine...
+[2019.09.17-05.16.01:881][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.09.17-05.16.01:907][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.025 s
+[2019.09.17-05.16.02:155][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.17-05.16.02:223][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.17-05.16.02:413][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-05.16.02:581][  0]LogInit: FAudioDevice initialized.
+[2019.09.17-05.16.02:582][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.17-05.16.02:716][  0]LogDerivedDataCache: Saved boot cache 0.13s 72MB C:/Users/broki/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.17-05.16.02:731][  0]LogInit: Texture streaming: Enabled
+[2019.09.17-05.16.02:807][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.17-05.16.02:858][  0]LogInit: Transaction tracking system initialized
+[2019.09.17-05.16.02:950][  0]BlueprintLog: New page: Editor Load
+[2019.09.17-05.16.03:318][  0]LocalizationService: Localization service is disabled
+[2019.09.17-05.16.03:869][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.17-05.16.03:869][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.17-05.16.03:947][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/' took 0.05s
+[2019.09.17-05.16.06:161][  0]Cmd: MAP LOAD FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.17-05.16.06:191][  0]LightingResults: New page: Lighting Build
+[2019.09.17-05.16.06:202][  0]MapCheck: New page: Map Check
+[2019.09.17-05.16.06:202][  0]LightingResults: New page: Lighting Build
+[2019.09.17-05.16.06:236][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.09.17-05.16.07:240][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/AllLevels/PlayerSaveGame.PlayerSaveGame_C:S_PlayerInfo'. Unknown structure.
+[2019.09.17-05.16.07:240][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_2 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/AllLevels/PlayerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.17-05.16.07:353][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:PlayerInfo'. Unknown structure.
+[2019.09.17-05.16.07:395][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_2 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/UI/MainMenu/OptionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.17-05.16.07:883][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.17-05.16.07:884][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.17-05.16.08:041][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.09.17-05.16.08:046][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.17-05.16.08:086][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.09.17-05.16.08:086][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.17-05.16.08:086][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2019.09.17-05.16.08:086][  0]LogFileHelpers: Loading map 'MainMenu' took 1.925
+[2019.09.17-05.16.08:303][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-05.16.08:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-05.16.08:325][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-05.16.08:334][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-05.16.08:388][  0]LogCollectionManager: Loaded 0 collections in 0.020734 seconds
+[2019.09.17-05.16.08:442][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Collections/' took 0.01s
+[2019.09.17-05.16.08:442][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/Developers/broki/Collections/' took 0.00s
+[2019.09.17-05.16.08:442][  0]LogFileCache: Scanning file cache for directory 'G:/Epic Games/UnrealProjects/CoopVR/Content/Collections/' took 0.00s
+[2019.09.17-05.16.08:442][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.17-05.16.08:454][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2922 classes and 741 folders.
+[2019.09.17-05.16.08:473][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.17-05.16.08:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:491][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.17-05.16.08:707][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.17-05.16.08:719][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.09.17-05.16.08:901][  0]LogSlate: Took 0.001132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.17-05.16.08:906][  0]LogSlate: Took 0.001294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.17-05.16.08:918][  0]LogSlate: Took 0.001113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.17-05.16.09:033][  0]LogRenderer: Reallocating scene render targets to support 1168x660 Format 10 NumSamples 1 (Frame:1).
+[2019.09.17-05.16.09:317][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.17-05.16.09:317][  0]LogLoad: (Engine Initialization) Total time: 28.40 seconds
+[2019.09.17-05.16.09:317][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.17-05.16.09:329][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.17-05.16.09:387][  0]LogAssetRegistry: Asset discovery search completed in 17.8584 seconds
+[2019.09.17-05.16.09:391][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.17-05.16.09:391][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2019.09.17-05.16.09:400][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.17-05.16.10:362][100]LogSlate: Took 0.003222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.17-05.19.46:476][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-05.19.51:055][174]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:PassCharacterInfoToServer.PlayerSettingsInfo'. Unknown structure.
+[2019.09.17-05.19.51:055][174]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:ExecuteUbergraph_GameplayPC.K2Node_CustomEvent_PlayerSettingsInfo'. Unknown structure.
+[2019.09.17-05.19.51:055][174]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:PlayerSettings'. Unknown structure.
+[2019.09.17-05.19.51:595][174]LogClass: Warning: Property PlayerSettings of PlayerSettings has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_2 != prop FallbackStruct) in package:  G:/Epic Games/UnrealProjects/CoopVR/Content/Blueprints/Gameplay/GameplayPC.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.17-05.19.51:834][174]LogClass: Warning: Property PlayerSettings of PlayerSettings has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.09.17-05.19.52:852][174]LogAIModule: Creating AISystem for world Lobby
+[2019.09.17-05.19.52:893][174]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Lobby.Lobby
+[2019.09.17-05.19.52:942][174]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2019.09.17-05.19.52:944][174]Cmd: MAP LOAD FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.17-05.19.52:944][174]LightingResults: New page: Lighting Build
+[2019.09.17-05.19.52:945][174]LoadErrors: New page: Loading map: Lobby.umap
+[2019.09.17-05.19.52:945][174]MapCheck: New page: Map Check
+[2019.09.17-05.19.52:945][174]LightingResults: New page: Lighting Build
+[2019.09.17-05.19.52:969][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.09.17-05.19.53:160][174]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.17-05.19.53:189][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.09.17-05.19.53:225][174]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.17-05.19.53:225][174]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2019.09.17-05.19.53:225][174]LogFileHelpers: Loading map 'Lobby' took 0.283
+[2019.09.17-05.19.57:957][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-05.20.16:477][761]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-05.20.17:161][786]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-05.20.17:646][787]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-05.20.19:193][898]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-05.20.19:655][904]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-05.20.20:769][950]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-05.20.23:222][ 82]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.17-05.20.30:307][218]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VRExpansion/Vive/Vive_PawnCharacter.Vive_PawnCharacter
+[2019.09.17-05.20.30:742][218]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.09.17-05.20.32:616][218]LogSlate: Took 0.001248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.17-05.20.33:409][219]LogSlate: Took 0.001067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.17-05.20.56:682][416]LogSlate: Window 'Vive_PawnCharacter' being destroyed
+[2019.09.17-05.21.28:335][947]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.17-05.21.46:071][947]LogSlate: Window 'Submit Files' being destroyed
+[2019.09.17-05.21.51:730][947]LogSourceControl: commit successful: [develop ad9da22] Vive Pawn Changes
+[2019.09.17-05.21.52:138][947]SourceControl: [develop ad9da22] Vive Pawn Changes
+[2019.09.17-05.21.52:138][947]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2019.09.17-05.21.52:138][947]SourceControl:  create mode 100644 Content/VRExpansion/Vive/Testing/Camera/ForeGroundRenderTarget_Mat.uasset
+[2019.09.17-05.21.52:138][947]SourceControl:  rewrite Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset (62%)
+[2019.09.17-05.21.52:145][947]SourceControl: Commited [develop ad9da22] Vive Pawn Changes.
+[2019.09.17-05.27.36:731][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-05.27.38:239][763]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacterCD356A0B4DE675BE0601AD9258A45A97.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-05.27.39:507][875]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-05.27.40:182][875]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.09.17-05.28.55:863][285]LogRenderer: Reallocating scene render targets to support 1168x800 Format 10 NumSamples 1 (Frame:1).
+[2019.09.17-05.29.03:214][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-05.29.15:919][334]LogEditorTransaction: Undo Modify Component(s)
+[2019.09.17-05.29.24:139][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-05.29.24:222][286]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-05.29.24:904][286]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.09.17-05.37.23:147][922]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.09.17-05.37.23:158][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:158][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:158][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:159][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:159][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:159][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:160][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:160][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:160][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:161][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:161][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:161][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:162][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:162][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:162][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:162][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:163][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:163][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:164][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:164][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:164][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:164][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:165][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:165][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:166][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:166][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:166][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:167][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:167][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:167][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:168][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:168][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:168][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:169][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:169][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:169][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:170][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:171][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:171][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:171][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:172][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:172][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:172][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:173][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:173][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:174][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:174][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:174][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:175][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:175][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:175][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:176][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:176][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:177][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:177][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:177][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:178][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:178][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:178][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:179][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:179][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:179][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:180][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:180][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:180][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:181][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:181][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:181][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:181][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:182][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:182][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:183][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:183][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:183][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:184][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:184][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:184][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:185][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:185][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:186][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:186][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:186][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:187][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:187][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:187][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:188][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:188][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:188][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:189][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:189][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:189][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:190][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:190][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:190][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:191][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:191][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:191][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:193][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:193][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:194][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:194][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:194][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:195][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:195][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:195][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:196][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:196][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:196][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:197][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:197][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:198][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:198][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:198][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:199][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:209][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:211][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:217][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:217][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:262][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:262][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:342][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:350][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:374][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:402][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:403][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:406][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:418][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:419][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:454][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.23:483][922]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.17-05.37.39:172][639]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.09.17-05.37.40:307][639]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.17-05.38.59:277][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-05.39.00:621][962]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacter060D5B8A47A3B1AE57E5A7A0E000A8EE.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-05.39.11:070][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-05.39.12:410][117]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacterE884001743766D23759BA9BCED9FB3A5.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-05.39.12:970][175]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-05.39.13:730][175]LogUObjectHash: Compacting FUObjectHashTables data took  10.76ms
+[2019.09.17-05.39.16:912][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-05.39.18:215][508]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacter578B483949D4FAF8A94B79A7E05E6C7A.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-05.43.43:309][746]LogEditorTransaction: Undo Delete current selection
+[2019.09.17-05.44.24:986][293]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-05.44.25:693][293]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2019.09.17-05.44.26:867][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-05.44.28:417][332]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacterD3E30BEF430F4FD3E040048FA75E0042.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-05.46.46:315][790]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.17-05.46.57:850][790]LogSlate: Window 'Submit Files' being destroyed
+[2019.09.17-05.46.59:343][790]LogSourceControl: commit successful: [develop 198d63a] Vive Pawn Changes
+[2019.09.17-05.46.59:445][790]SourceControl: [develop 198d63a] Vive Pawn Changes
+[2019.09.17-05.46.59:445][790]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.09.17-05.46.59:451][790]SourceControl: Commited [develop 198d63a] Vive Pawn Changes.
+[2019.09.17-06.06.21:932][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-06.09.03:377][326]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-06.09.04:166][326]LogUObjectHash: Compacting FUObjectHashTables data took   9.00ms
+[2019.09.17-06.09.05:541][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-06.09.07:072][367]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacter90DDCC8A4325154891BAA4A941B153A5.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-06.10.45:979][748]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-06.10.46:682][748]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2019.09.17-06.11.05:789][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-06.11.51:398][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-06.12.16:912][397]LogEditorTransaction: Undo Modify Component(s)
+[2019.09.17-06.12.17:891][500]LogEditorTransaction: Undo Modify Component(s)
+[2019.09.17-06.12.23:025][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-06.12.34:965][404]LogEditorTransaction: Undo Modify Component(s)
+[2019.09.17-06.12.35:302][435]LogEditorTransaction: Undo Set Scale
+[2019.09.17-06.12.35:317][435]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.Right Grip Motion Controller) Component already registered.
+[2019.09.17-06.12.35:320][435]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.Left Grip Motion Controller) Component already registered.
+[2019.09.17-06.12.35:323][435]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.Parent Relative Attachment) Component already registered.
+[2019.09.17-06.12.35:329][435]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.NetSmoother) Component already registered.
+[2019.09.17-06.12.35:865][490]LogEditorTransaction: Undo Set Scale
+[2019.09.17-06.12.35:878][490]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.Right Grip Motion Controller) Component already registered.
+[2019.09.17-06.12.35:880][490]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.Left Grip Motion Controller) Component already registered.
+[2019.09.17-06.12.35:884][490]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.Parent Relative Attachment) Component already registered.
+[2019.09.17-06.12.35:889][490]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.NetSmoother) Component already registered.
+[2019.09.17-06.12.36:267][528]LogEditorTransaction: Undo Set Scale
+[2019.09.17-06.12.36:281][528]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.Right Grip Motion Controller) Component already registered.
+[2019.09.17-06.12.36:284][528]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.Left Grip Motion Controller) Component already registered.
+[2019.09.17-06.12.36:287][528]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.Parent Relative Attachment) Component already registered.
+[2019.09.17-06.12.36:294][528]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.Vive_PawnCharacter_C_0.NetSmoother) Component already registered.
+[2019.09.17-06.12.36:688][568]LogEditorTransaction: Undo Modify Component(s)
+[2019.09.17-06.12.37:131][614]LogEditorTransaction: Undo Modify Component(s)
+[2019.09.17-06.12.53:407][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-06.12.57:472][977]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-06.12.58:511][977]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2019.09.17-06.13.00:058][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-06.13.01:484][111]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacter823C2C234AC75EC9C061BFA1524A8C63.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-06.16.56:951][457]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-06.16.57:617][457]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2019.09.17-06.16.58:774][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-06.17.00:315][494]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacter86C90EAD4428E6775D986CACAB9EA4F2.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-06.19.58:228][169]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-06.19.58:948][169]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2019.09.17-06.20.00:171][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-06.20.01:452][191]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacter16CB269C4CC8D9AEB7B717B7664E8710.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-06.27.07:060][889]BlueprintLog: New page: Compile Vive_PawnCharacter
+[2019.09.17-06.27.07:848][889]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2019.09.17-06.27.08:887][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRExpansion/Vive/Vive_PawnCharacter" FILE="G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset" SILENT=true
+[2019.09.17-06.27.10:189][918]LogSavePackage: Moving 'G:/Epic Games/UnrealProjects/CoopVR/Saved/Vive_PawnCharacterE3BC7D08459DEA426D7134BA8AF67075.tmp' to 'G:/Epic Games/UnrealProjects/CoopVR/Content/VRExpansion/Vive/Vive_PawnCharacter.uasset'
+[2019.09.17-06.30.11:511][809]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.17-06.30.24:023][809]LogSlate: Window 'Submit Files' being destroyed
+[2019.09.17-06.30.25:622][809]LogSourceControl: commit successful: [develop 3617dae] Vive Pawn Changes
+[2019.09.17-06.30.25:738][809]SourceControl: [develop 3617dae] Vive Pawn Changes
+[2019.09.17-06.30.25:738][809]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.09.17-06.30.25:744][809]SourceControl: Commited [develop 3617dae] Vive Pawn Changes.
+[2019.09.17-06.51.38:842][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-06.51.40:575][591]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files (x86)/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.17-06.51.40:937][591]EditorErrors: Warning: No assets to check in!
